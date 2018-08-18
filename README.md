@@ -8,7 +8,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Akuna Capital](https://akunacapital.com/careers)  | Chicago, IL or Boston, MA | Present | Not open to freshman; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | San Francisco, CA | Present | Must graduate by June 2020|
 | [Chegg](https://jobs.chegg.com/job/CHEGA00561314/Software-Engineer-Intern)  | Santa Clara Valley, CA | Present | |
-| [Coinbase](https://www.coinbase.com/careers)  | San Francisco, CA | Present | Specific positions: [Machine Learning](https://www.coinbase.com/careers/919954), [Consumer Back End](https://www.coinbase.com/careers/919512), [Android dev](https://www.coinbase.com/careers/919969) |
+| [Coinbase](https://www.coinbase.com/careers)  | San Francisco, CA | Present | Available positions: [Machine Learning](https://www.coinbase.com/careers/919954), [Consumer Back End](https://www.coinbase.com/careers/919512), [Android dev](https://www.coinbase.com/careers/919969) |
 | [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | Pittsburgh, PA | Present | Must graduate by June 2020 |
 | [Facebook](https://www.facebook.com/careers/jobs/a0I1200000IAGYKEA5/)  | Multiple | Present | |
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | New York, NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
