@@ -2,6 +2,13 @@
 
 All positions are software engineering roles, unless otherwise noted in the Notes column. Similarly, all positions are open to anyone enrolled in a Bachelor's degree program, unless specific graduation years are mentioned in the Notes column.
 
+To contribute: 
+1. Clone repository: `git clone https://github.com/christine-hu/summer-2019-internships.git`
+2. Navigate to the repository, and create a new branch: `git checkout -b branch_name` 
+   - then push to remote: `git push origin branch_name`
+3. Edit the README.md file in your branch ([Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md) is helpful)
+4. Open a pull request!
+
 ## Currently Open Applications
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
