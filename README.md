@@ -41,6 +41,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | Unknown | September-December  | |
 | [Facebook University](https://www.facebook.com/careers/students-and-grads/students)  | Unknown | December 1st-January 15th  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | Google Engineering Practicum  | Unknown | Fall 2018 | For college freshmen and sophomores.|
+| [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
 
 ## Unknown application release date 
 
@@ -49,6 +50,9 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | Burbank, CA | ? | |
 | [Electronic Arts](https://www.ea.com/en-ca/careers/students)  | Multiple | ? | |
+| [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice |
+| [Palantir Path](https://careers.pinterest.com/careers/interns-and-new-grads)  | New York, NY | ? | A program for sophomores/juniors with limited industry experience|
+| [Pinterest](https://careers.pinterest.com/careers/interns-and-new-grads)  | San Francisco, CA | ? | |
 | [Pixar Undergraduate Program](https://www.pixar.com/internships/#internships-main)  | Emeryville, CA | ? | |
 | [Strava](https://boards.greenhouse.io/strava#.WFiiq6IrJBx)  | San Francisco, CA | ? | |
 | [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | San Diego, CA | ? | For high-performing freshmen |
