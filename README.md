@@ -20,6 +20,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | Los Angeles, CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | Cambridge, MA | Present | |
 | [IBM](https://careers.ibm.com/ShowJob/Id/323739/2019%20Software%20Developer%20Internship#CALosAngeles)  | Multiple | Present | |
+| [iCIMS](https://careers.icims.com/job/3942/software-engineering-internships-(summer-2019)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Holdmel, NJ | Present | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/)  | New York, NY | Present | |
 | [JP Morgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180068843)  | Multiple | Present | Must graduate by June 2020|
 | [Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/15827)  | Mountain View, CA | Present | |
