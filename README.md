@@ -49,7 +49,8 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | Multiple | September-December  | |
 | [Facebook University](https://www.facebook.com/careers/students-and-grads/students)  | Menlo Park, CA | December 1st-January 15th  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | Google Engineering Practicum  | Multiple | Fall 2018 | For college freshmen and sophomores.|
-| [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice | 
+|[Shopify](https://www.shopify.com/careers/interns) | Ottawa, Waterloo, Montreal, Toronto | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
 
 ## Unknown application release date 
 
@@ -70,4 +71,8 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | San Diego, CA | ? | For high-performing freshmen |
 | [Zynga](https://www.zynga.com/careers/positions/categories/students-new-grads-interns)  | San Francisco, CA | ? | |
 
-
+## Contributing
+### Steps
+1. Fork the repo
+2. Make your changes on a branch
+3. Create a pull request
