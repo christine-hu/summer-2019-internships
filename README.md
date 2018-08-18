@@ -10,6 +10,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | San Francisco, CA | Present | Must graduate by June 2020|
 | [Chegg](https://jobs.chegg.com/job/CHEGA00561314/Software-Engineer-Intern)  | Santa Clara Valley, CA | Present | |
 | [Coinbase](https://www.coinbase.com/careers)  | San Francisco, CA | Present | Available positions: [Machine Learning](https://www.coinbase.com/careers/919954), [Consumer Back End](https://www.coinbase.com/careers/919512), [Android dev](https://www.coinbase.com/careers/919969) |
+| [Cockroach Labs](https://angel.co/cockroach-labs/jobs/405680-backend-engineering-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | New York, NY | Present | Backend engineering position |
 | [Couple](https://couple.me/jobs)  | San Francisco, CA | Present | |
 | [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | Pittsburgh, PA | Present | Must graduate by June 2020 |
 | [Dropbox](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2019-at-dropbox-815179691/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | New York, NY | Present | Must graduate by June 2020 |
