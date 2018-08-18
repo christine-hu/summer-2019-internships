@@ -8,6 +8,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Akuna Capital](https://akunacapital.com/careers)  | Chicago, IL or Boston, MA | Present | Not open to freshman; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
 | [Astranis](https://jobs.lever.co/astranis/a3542e7a-f1b3-4d70-8663-f796dac0a6e1/apply?lever-source=LinkedIn)  | San Francisco, CA | Present | |
 | [Bank of America Freshman Summer Analyst](https://campus.bankofamerica.com/careers/Global-Technology-Freshman-Summer-Analyst-Program-US.html)  | Multiple | Present | Freshmen only. RTC partner! |
+| [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0n04ox)  | Chicago, IL | Present | Must graduate in Dec 2019/June 2020 |
 | [BlackRock](https://www.wayup.com/i-Financial-Services-j-Software-Engineering-Summer-Analyst-2019-BlackRock-452850830832505/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Multiple | Present | Juniors only |
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | San Francisco, CA | Present | Must graduate by June 2020 |
 | [BookBub](https://www.bookbub.com/positions?gh_jid=1289755&gh_src=af34ffd31)  | Cambridge, MA | Present | |
@@ -21,7 +22,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | New York, NY | Present | Must graduate in/after December 2020. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | Facebook | Multiple | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | New York, NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
-| [Garmin](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-07%3A00)  | Olathe, KS | August 13th-Present  | Also available: [Design Engineer Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UC&tz=GMT-07%3A00)  |
+| [Garmin](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-07%3A00)  | Olathe, KS | August 13th-Present  | Also available: [Design Engineer Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UC&tz=GMT-07%3A00), [Chandler, AZ Location](https://jobs.aviationjobnet.com/job/453294/software-engineer-intern-chandler-az-summer-2019/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | Los Angeles, CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | Cambridge, MA | Present | |
 | [IBM](https://careers.ibm.com/ShowJob/Id/323739/2019%20Software%20Developer%20Internship#CALosAngeles)  | Multiple | Present | |
@@ -37,6 +38,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | Chicago, IL | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | Multiple | Present | Must graduate in 2020|
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | Playa Vista, CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
+| [Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Boulder-CO/Intern---Software---Summer-2019_R000645-2?Codes=SM-LinkedIn)  | Boulder, CO | Present | Juniors preferred |
 | Quora | Mountain View, CA | Present | Available positions: [Data Scientist](https://jobs.lever.co/quora/2274c5e5-79de-47d3-bdf8-7a5bdfda0ebb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic), [Product Designer](https://jobs.lever.co/quora/86333564-3855-4753-ba2f-6358115cb6af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|
 | [Red Ventures](https://www.careerbliss.com/jobs/detail/1603639395?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Charlotte, NC | Present | Must graduate in 2020 |
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/1267864?gh_jid=1267864&gh_src=vs7ga51)  | Los Angeles, CA | Present |  |
