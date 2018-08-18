@@ -46,6 +46,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Target](https://jobs.target.com/job/-/-/1118/8984961?src=JB-10182)  | Minneapolis, MN | Present | Juniors only |
 | [Twitter Academy](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | San Francisco, CA | Present | For second-year students who are black, Hispanic/Latinx, or Native American.|
 | [Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=4252&source=Direct+Applicant&tags=internshipinfographic)  | New York, NY | Present | [Quantitative Research](https://careers.twosigma.com/careers/Careers?jobId=4357&source=Direct+Applicant&tags=internshipinfographic) position also available.|
+| [Valassis](https://www.valassisdigital.com/careers/?gnk=job&gni=8a78859e64f8dfac0165395973ca3346&gns=LinkedIn+Limited)  | Morrisville, NC | Present | Keywords: Big Data, High Scalability Engineering, Web Applications |
 
 
 ## Applications opening soon
