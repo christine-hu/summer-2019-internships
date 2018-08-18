@@ -7,6 +7,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 |---|---|---|---|
 | [Akuna Capital](https://akunacapital.com/careers)  | Chicago, IL or Boston, MA | Present | Not open to freshman; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
 | [Bank of America Freshman Summer Analyst](https://campus.bankofamerica.com/careers/Global-Technology-Freshman-Summer-Analyst-Program-US.html)  | Multiple | Present | Freshmen only. RTC partner! |
+| [BlackRock](https://www.wayup.com/i-Financial-Services-j-Software-Engineering-Summer-Analyst-2019-BlackRock-452850830832505/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Multiple | Present | Juniors only |
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | San Francisco, CA | Present | Must graduate by June 2020|
 | [Chegg](https://jobs.chegg.com/job/CHEGA00561314/Software-Engineer-Intern)  | Santa Clara Valley, CA | Present | |
 | [Coinbase](https://www.coinbase.com/careers)  | San Francisco, CA | Present | Available positions: [Machine Learning](https://www.coinbase.com/careers/919954), [Consumer Back End](https://www.coinbase.com/careers/919512), [Android dev](https://www.coinbase.com/careers/919969) |
