@@ -25,6 +25,8 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | Chicago, IL | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | Multiple | Present | Must graduate in 2020|
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | Playa Vista, CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
+| Quora | Mountain View, CA | Present | Available positions: [Data Scientist](https://jobs.lever.co/quora/2274c5e5-79de-47d3-bdf8-7a5bdfda0ebb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic), [Product Designer](https://jobs.lever.co/quora/86333564-3855-4753-ba2f-6358115cb6af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|
+https://jobs.lever.co/quora/2274c5e5-79de-47d3-bdf8-7a5bdfda0ebb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/1267864?gh_jid=1267864&gh_src=vs7ga51)  | Los Angeles, CA | Present |  |
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/996796)  | Menlo Park, CA | Present |  |
 | [Roblox](https://corp.roblox.com/jobs/?gh_jid=1290141)  | San Mateo, CA | Present |  |
