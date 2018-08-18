@@ -46,10 +46,12 @@ All positions are software engineering roles, unless otherwise noted in the Note
 
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
-| [Electronic Arts](https://www.ea.com/en-ca/careers/students)  | Multiple | ? | |
-| [Strava](https://boards.greenhouse.io/strava#.WFiiq6IrJBx)  | San Francisco, CA | ? | |
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
-| [Zynga](https://www.zynga.com/careers/positions/categories/students-new-grads-interns)  | San Francisco, CA | ? | |
+| [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | Burbank, CA | ? | |
+| [Electronic Arts](https://www.ea.com/en-ca/careers/students)  | Multiple | ? | |
+| [Pixar Undergraduate Program](https://www.pixar.com/internships/#internships-main)  | Emeryville, CA | ? | |
+| [Strava](https://boards.greenhouse.io/strava#.WFiiq6IrJBx)  | San Francisco, CA | ? | |
 | [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | San Diego, CA | ? | For high-performing freshmen |
+| [Zynga](https://www.zynga.com/careers/positions/categories/students-new-grads-interns)  | San Francisco, CA | ? | |
 
 
