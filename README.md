@@ -21,8 +21,11 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | August 9th-Present | |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | Redmond, WA | August 17th-Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | Chicago, IL | Present | |
+| [Palantir](https://www.palantir.com/careers/)  | Multiple | Present | Must graduate in 2020|
+| [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | Playa Vista, CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/1267864?gh_jid=1267864&gh_src=vs7ga51)  | Los Angeles, CA | Present |  |
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/996796)  | Menlo Park, CA | Present |  |
+| [Roblox](https://corp.roblox.com/jobs/?gh_jid=1290141)  | San Mateo, CA | Present |  |
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)  | Multiple | Present |  |
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-san-francisco)  | San Francisco, CA | Present | Must graduate in 2020 or 2021.|
 | [Target](https://jobs.target.com/job/-/-/1118/8984961?src=JB-10182)  | Minneapolis, MN | Present | |
@@ -40,3 +43,13 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | Google Engineering Practicum  | Unknown | Fall 2018 | For college freshmen and sophomores.|
 
 ## Unknown application release date 
+
+| Name | Location | Application Period | Notes  | 
+|---|---|---|---|
+| [Electronic Arts](https://www.ea.com/en-ca/careers/students)  | Multiple | ? | |
+| [Strava](https://boards.greenhouse.io/strava#.WFiiq6IrJBx)  | San Francisco, CA | ? | |
+| [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
+| [Zynga](https://www.zynga.com/careers/positions/categories/students-new-grads-interns)  | San Francisco, CA | ? | |
+| [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | San Diego, CA | ? | For high-performing freshmen |
+
+
