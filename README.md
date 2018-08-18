@@ -13,7 +13,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Cockroach Labs](https://angel.co/cockroach-labs/jobs/405680-backend-engineering-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | New York, NY | Present | Backend engineering position |
 | [Couple](https://couple.me/jobs)  | San Francisco, CA | Present | |
 | [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | Pittsburgh, PA | Present | Must graduate by June 2020 |
-| [Dropbox](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2019-at-dropbox-815179691/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | New York, NY | Present | Must graduate by June 2020 |
+| [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | New York, NY | Present | Must graduate by in/after December 2020 |
 | Facebook | Multiple | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | New York, NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
 | [Garmin](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-07%3A00)  | Olathe, KS | August 13th-Present  | Also available: [Design Engineer Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UC&tz=GMT-07%3A00)  |
@@ -25,6 +25,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [JP Morgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180068843)  | Multiple | Present | Must graduate by June 2020|
 | [Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/15827)  | Mountain View, CA | Present | |
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?fl=6252001,4566966)  | Multiple | Present | |
+| [BookBub](https://www.bookbub.com/positions?gh_jid=1289755&gh_src=af34ffd31)  | Cambridge, MA | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | August 9th-Present | |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | Redmond, WA | August 17th-Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | Chicago, IL | Present | |
