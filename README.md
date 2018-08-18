@@ -33,7 +33,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Roblox](https://corp.roblox.com/jobs/?gh_jid=1290141)  | San Mateo, CA | Present |  |
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)  | Multiple | Present |  |
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-san-francisco)  | San Francisco, CA | Present | Must graduate in 2020 or 2021.|
-| [Target](https://jobs.target.com/job/-/-/1118/8984961?src=JB-10182)  | Minneapolis, MN | Present | |
+| [Target](https://jobs.target.com/job/-/-/1118/8984961?src=JB-10182)  | Minneapolis, MN | Present | Juniors only |
 | [Twitter Academy](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | San Francisco, CA | Present | For second-year students who are black, Hispanic/Latinx, or Native American.|
 | [Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=4252&source=Direct+Applicant&tags=internshipinfographic)  | New York, NY | Present | [Quantitative Research](https://careers.twosigma.com/careers/Careers?jobId=4357&source=Direct+Applicant&tags=internshipinfographic) position also available.|
 
