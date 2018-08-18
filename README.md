@@ -15,6 +15,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Chick-fil-a](https://www.themuse.com/jobs/chickfila/2019-springsummer-software-engineering-innovation-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Atlanta, GA | Present | Current juniors and seniors only |
 | [Coinbase](https://www.coinbase.com/careers)  | San Francisco, CA | Present | Available positions: [Machine Learning](https://www.coinbase.com/careers/919954), [Consumer Back End](https://www.coinbase.com/careers/919512), [Android dev](https://www.coinbase.com/careers/919969) |
 | [Cockroach Labs](https://angel.co/cockroach-labs/jobs/405680-backend-engineering-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | New York, NY | Present | Backend engineering position |
+| [Convoy](https://jobs.lever.co/convoy/86c7bb6e-c592-43bf-87c8-a1eec90af2f3/apply?lever-source=Glassdoor)  | Seattle, WA | Present | Must graduate in 2020 |
 | [Couple](https://couple.me/jobs)  | San Francisco, CA | Present | |
 | [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | Pittsburgh, PA | Present | Must graduate by June 2020 |
 | [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | New York, NY | Present | Must graduate in/after December 2020. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -32,6 +33,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?fl=6252001,4566966)  | Multiple | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | August 9th-Present | |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | Redmond, WA | August 17th-Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
+| [Narrative Science](https://www.startwire.com/express_apply_jobs/NDE2OF9lNzU3MTExMmUzMjlmNTg5NDYwNDg2NWIzZTgwYzZiY19sdXVhX2k=?source=adzuna_l2_HRCommunityAdmin)  | Chicago, IL | Present | |
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | Chicago, IL | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | Multiple | Present | Must graduate in 2020|
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | Playa Vista, CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
