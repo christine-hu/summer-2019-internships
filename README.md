@@ -6,9 +6,11 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
 | [Akuna Capital](https://akunacapital.com/careers)  | Chicago, IL or Boston, MA | Present | Not open to freshman; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
+| [Bank of America Freshman Summer Analyst](https://campus.bankofamerica.com/careers/Global-Technology-Freshman-Summer-Analyst-Program-US.html)  | Multiple | Present | Freshmen only. RTC partner! |
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | San Francisco, CA | Present | Must graduate by June 2020|
 | [Chegg](https://jobs.chegg.com/job/CHEGA00561314/Software-Engineer-Intern)  | Santa Clara Valley, CA | Present | |
 | [Coinbase](https://www.coinbase.com/careers)  | San Francisco, CA | Present | Available positions: [Machine Learning](https://www.coinbase.com/careers/919954), [Consumer Back End](https://www.coinbase.com/careers/919512), [Android dev](https://www.coinbase.com/careers/919969) |
+| [Couple](https://couple.me/jobs)  | San Francisco, CA | Present | |
 | [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | Pittsburgh, PA | Present | Must graduate by June 2020 |
 | [Facebook](https://www.facebook.com/careers/jobs/a0I1200000IAGYKEA5/)  | Multiple | Present | |
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | New York, NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
@@ -47,12 +49,14 @@ All positions are software engineering roles, unless otherwise noted in the Note
 
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
+| [Airbnb](https://www.airbnb.com/careers/university)  | San Francisco, CA | ? | |
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | Burbank, CA | ? | |
 | [Electronic Arts](https://www.ea.com/en-ca/careers/students)  | Multiple | ? | |
 | [IBM Extreme Blue](http://www-01.ibm.com/employment/us/extremeblue/apply_us.html)  | Austin, TX or Research Triangle Park, NC | ? | |
 | [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice |
 | [Palantir Path](https://careers.pinterest.com/careers/interns-and-new-grads)  | New York, NY | ? | A program for sophomores/juniors with limited industry experience|
+| [Pandora](https://pandora.com/careers/universityrecruiting)  | San Francisco, CA | ? | Sign up for job notifications [here](http://jobs.jobvite.com/pandora/jobAlerts)|
 | [Pinterest](https://careers.pinterest.com/careers/interns-and-new-grads)  | San Francisco, CA | ? | |
 | [Pixar Undergraduate Program](https://www.pixar.com/internships/#internships-main)  | Emeryville, CA | ? | |
 | [Strava](https://boards.greenhouse.io/strava#.WFiiq6IrJBx)  | San Francisco, CA | ? | |
