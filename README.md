@@ -12,7 +12,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | Pittsburgh, PA | Present | Must graduate by June 2020 |
 | [Facebook](https://www.facebook.com/careers/jobs/a0I1200000IAGYKEA5/)  | Multiple | Present | |
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | New York, NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
-| [Garmin](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-07%3A00)  | Olathe, KS | August 13th-Present  |   |
+| [Garmin](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-07%3A00)  | Olathe, KS | August 13th-Present  | Also available: [Design Engineer Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UC&tz=GMT-07%3A00)  |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | Los Angeles, CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | Cambridge, MA | Present | |
 | [IBM](https://careers.ibm.com/ShowJob/Id/323739/2019%20Software%20Developer%20Internship#CALosAngeles)  | Multiple | Present | |
