@@ -83,7 +83,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | Burbank, CA | ? | |
 | [Electronic Arts](https://www.ea.com/en-ca/careers/students)  | Multiple | ? | |
 | [IBM Extreme Blue](http://www-01.ibm.com/employment/us/extremeblue/apply_us.html)  | Austin, TX or Research Triangle Park, NC | ? | |
-| [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice |
+| [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
 | [Palantir Path](https://careers.pinterest.com/careers/interns-and-new-grads)  | New York, NY | ? | A program for sophomores/juniors with limited industry experience|
 | [Pandora](https://pandora.com/careers/universityrecruiting)  | San Francisco, CA | ? | Sign up for job notifications [here](http://jobs.jobvite.com/pandora/jobAlerts)|
 | [Pinterest](https://careers.pinterest.com/careers/interns-and-new-grads)  | San Francisco, CA | ? | |
