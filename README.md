@@ -21,6 +21,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/)  | New York, NY | Present | |
 | [JP Morgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180068843)  | Multiple | Present | Must graduate by June 2020|
 | [Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/15827)  | Mountain View, CA | Present | |
+| [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?fl=6252001,4566966)  | Multiple | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | August 9th-Present | |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | Redmond, WA | August 17th-Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | Chicago, IL | Present | |
@@ -52,6 +53,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
 | [Airbnb](https://www.airbnb.com/careers/university)  | San Francisco, CA | ? | |
+| [Boeing](https://jobs.boeing.com/category/engineering-internships-jobs/185/18288/1)  | Multiple | ? | |
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | Burbank, CA | ? | |
 | [Electronic Arts](https://www.ea.com/en-ca/careers/students)  | Multiple | ? | |
