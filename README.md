@@ -6,6 +6,8 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
 | [Akuna Capital](https://akunacapital.com/careers)  | Chicago, IL or Boston, MA | Present | Not open to freshman; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
+| [Altera](https://www.ziprecruiter.com/c/Altera/Job/Undergraduate-Intern-2019-Software-Engineering/-in-Santa-Clara,CA?ojob=2051ed1e1aa182542a76afdc45f164f5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Santa Clara, CA | Present |  |
+| [American Express](https://jobs.americanexpress.com/jobs/18012247?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Multiple | Present | Graduation date between December 2019 and June 2021 |
 | [Astranis](https://jobs.lever.co/astranis/a3542e7a-f1b3-4d70-8663-f796dac0a6e1/apply?lever-source=LinkedIn)  | San Francisco, CA | Present | |
 | [Bank of America Freshman Summer Analyst](https://campus.bankofamerica.com/careers/Global-Technology-Freshman-Summer-Analyst-Program-US.html)  | Multiple | Present | Freshmen only. RTC partner! |
 | [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0n04ox)  | Chicago, IL | Present | Must graduate in Dec 2019/June 2020 |
@@ -23,10 +25,14 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | Facebook | Multiple | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | New York, NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
 | [Garmin](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-07%3A00)  | Olathe, KS | August 13th-Present  | Also available: [Design Engineer Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UC&tz=GMT-07%3A00), [Chandler AZ Location](https://jobs.aviationjobnet.com/job/453294/software-engineer-intern-chandler-az-summer-2019/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  |
+| [General Electric](https://neuvoo.com/view/?id=pruh2dhg6d&source=gfj&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Multiple | Present |  |
+| [Granular](https://angel.co/granular-2/jobs/411977-software-engineering-internship-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Des Moines, IA | Present | |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | Los Angeles, CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | Cambridge, MA | Present | |
 | [IBM](https://careers.ibm.com/ShowJob/Id/323739/2019%20Software%20Developer%20Internship#CALosAngeles)  | Multiple | Present | |
 | [iCIMS](https://careers.icims.com/job/3942/software-engineering-internships-(summer-2019)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Holdmel, NJ | Present | |
+| [Illumio](https://jobs.smartrecruiters.com/Illumio/743999675308471-data-engineer-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Sunnyvale, CA | Present | Must graduate in June 2020. Data Engineer role |
+| [IMC Trading](https://www.builtinchicago.org/job/internship/software-engineer-intern-summer-2019/63491?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Chicago, IL | Present | |
 | [Intel](https://jobs.intel.com/ShowJob/Id/1678929/Undergraduate-Intern-2019-Software-Engineering/)  | Santa Clara, CA | Present | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/)  | New York, NY | Present | |
 | [JP Morgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180068843)  | Multiple | Present | Must graduate by June 2020|
@@ -34,7 +40,9 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?fl=6252001,4566966)  | Multiple | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | August 9th-Present | |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | Redmond, WA | August 17th-Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
+| [Motorola](https://www.emprego.pt/en/jobs/show/software-engineering-2019-internship-chicago/28292808900579293750418544589?utm_medium=feed&utm_source=linkedin)  | Chicago, IL | Present | No seniors |
 | [Narrative Science](https://www.startwire.com/express_apply_jobs/NDE2OF9lNzU3MTExMmUzMjlmNTg5NDYwNDg2NWIzZTgwYzZiY19sdXVhX2k=?source=adzuna_l2_HRCommunityAdmin)  | Chicago, IL | Present | |
+| [Northrop Grumman](https://neuvoo.com/view/?id=7auiyzipit&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=edd9aadfd9db7ad7c9d7c9d6cad7d9dgbad7f9dc3ee3cdcgfec3dc&splitab=1&action=emailAlert)  | Minnetonka, MN | Present | No seniors |
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | Chicago, IL | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | Multiple | Present | Must graduate in 2020|
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | Playa Vista, CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
@@ -51,6 +59,8 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | [Twitter Academy](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | San Francisco, CA | Present | For second-year students who are black, Hispanic/Latinx, or Native American.|
 | [Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=4252&source=Direct+Applicant&tags=internshipinfographic)  | New York, NY | Present | [Quantitative Research](https://careers.twosigma.com/careers/Careers?jobId=4357&source=Direct+Applicant&tags=internshipinfographic) position also available.|
 | [Valassis](https://www.valassisdigital.com/careers/?gnk=job&gni=8a78859e64f8dfac0165395973ca3346&gns=LinkedIn+Limited)  | Morrisville, NC | Present | Keywords: Big Data, High Scalability Engineering, Web Applications |
+| [Zoox](https://www.ziprecruiter.com/c/Zoox/Job/Software-Engineer-Intern-2019/-in-Foster-City,CA?ojob=7d6e4edb956f1b58b3bfbf56a0a48828&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Foster City, CA | Present | Must be within 1-2 years of graduation |
+
 
 
 ## Applications opening soon
