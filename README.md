@@ -99,9 +99,3 @@ To contribute:
 | [Strava](https://boards.greenhouse.io/strava#.WFiiq6IrJBx)  | San Francisco, CA | ? | |
 | [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | San Diego, CA | ? | For high-performing freshmen |
 | [Zynga](https://www.zynga.com/careers/positions/categories/students-new-grads-interns)  | San Francisco, CA | ? | |
-
-## Contributing
-### Steps
-1. Fork the repo
-2. Make your changes on a branch
-3. Create a pull request
