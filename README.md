@@ -44,6 +44,7 @@ All positions are software engineering roles, unless otherwise noted in the Note
 |---|---|---|---|
 | [Amazon Future Engineers](https://www.amazonfutureengineer.com/)  | ? | September 1st-December 1st  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
 | [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | Multiple | September-December  | |
+| [Boeing](https://jobs.boeing.com/category/engineering-internships-jobs/185/18288/1)  | Multiple | August 24th | |
 | [Facebook University](https://www.facebook.com/careers/students-and-grads/students)  | Menlo Park, CA | December 1st-January 15th  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | Google Engineering Practicum  | Multiple | Fall 2018 | For college freshmen and sophomores.|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
@@ -53,7 +54,6 @@ All positions are software engineering roles, unless otherwise noted in the Note
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
 | [Airbnb](https://www.airbnb.com/careers/university)  | San Francisco, CA | ? | |
-| [Boeing](https://jobs.boeing.com/category/engineering-internships-jobs/185/18288/1)  | Multiple | ? | |
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | Burbank, CA | ? | |
 | [Electronic Arts](https://www.ea.com/en-ca/careers/students)  | Multiple | ? | |
