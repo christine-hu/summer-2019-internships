@@ -7,7 +7,7 @@ To contribute:
 2. Edit README.md ([Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md))
 4. Open a pull request!
 
-Two-letter locations indicate states in the U.S.; other countries are spelled out. (CA = California, not Canada)
+Two-letter locations indicate states in the U.S.; countries other than the U.S. are spelled out. (CA = California, not Canada)
 
 ## Currently Open Applications
 | Name | Location | Application Period | Notes  | 
