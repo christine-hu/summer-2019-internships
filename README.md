@@ -1,6 +1,6 @@
 # Summer 2019 Tech Internships!
 
-All positions are software engineering roles, unless otherwise noted in the Notes column. Similarly, all positions are open to anyone enrolled in a Bachelor's degree program, unless specific graduation years are mentioned in the Notes column.
+All positions are software engineering roles, unless otherwise specified in the Notes column. Similarly, all positions are open to anyone enrolled in a Bachelor's degree program, unless specific graduation years are mentioned in the Notes column.
 
 To contribute: 
 1. Fork repository 
