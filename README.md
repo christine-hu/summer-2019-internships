@@ -78,6 +78,7 @@ To contribute:
 | [Facebook University](https://www.facebook.com/careers/students-and-grads/students)  | Menlo Park, CA | December 1st-January 15th  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | Google Engineering Practicum  | Multiple | Fall 2018 | For college freshmen and sophomores.|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice | 
+| SAS Institute  | Cary, NC | September-February | [Expression of interest](https://careers-sas.icims.com/jobs/13379/expression-of-interest%3A-2019-summer-intern-program/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) form available | 
 |[Shopify](https://www.shopify.com/careers/interns) | Ottawa, Waterloo, Montreal, Toronto | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
 
 ## Unknown application release date 
