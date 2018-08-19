@@ -47,6 +47,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Intel](https://jobs.intel.com/ShowJob/Id/1678929/Undergraduate-Intern-2019-Software-Engineering/)  | CA | Present | |
 | [IXL Learning](https://www.ixl.com/company/jobs/internship)  | CA | Present | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/)  | NY | Present | |
+| [Johnson & Johnson](https://jobs.jnj.com/jobs/7066180716/3-2019-Technology-Summer-Internship-College-Hire-?lang=en-us&src=JB-10281)  | NJ, FL, PA, IN, CA, RI, GA | Present | Must graduate by June 2020|
 | [JP Morgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180068843)  | NY, IL, OH, TX, NJ, DE, NY, TX, CA, FL, DE | Present | Must graduate by June 2020|
 | [Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=856230)  | IL | Present | |
 | [Karat](https://jobs.lever.co/karat/c6666daf-6103-4430-85ac-4a45f5b0acfa)  | WA | Present | |
