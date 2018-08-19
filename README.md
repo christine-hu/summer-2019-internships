@@ -62,6 +62,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Northrop Grumman](https://neuvoo.com/view/?id=7auiyzipit&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=edd9aadfd9db7ad7c9d7c9d6cad7d9dgbad7f9dc3ee3cdcgfec3dc&splitab=1&action=emailAlert)  | MN | Present | No seniors |
 | [Occipital](https://occipital.com/jobs)  | IL | Present | No official program, but open to internships for any full time engineering role |
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | IL | Present | |
+| [Plaid](https://plaid.com/careers/#software-engineer-intern)  | CA | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | NY, CA, WA, D.C., Australia, London, Canada | Present | Must graduate in 2020|
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
 | [Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Boulder-CO/Intern---Software---Summer-2019_R000645-2?Codes=SM-LinkedIn)  | CO | Present | Juniors preferred |
@@ -95,9 +96,15 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Boeing](https://jobs.boeing.com/category/engineering-internships-jobs/185/18288/1)  | Multiple | August 24th | |
 | [Facebook University](https://www.facebook.com/careers/students-and-grads/students)  | CA | December 1st-January 15th  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | Google Engineering Practicum  | Multiple | Fall 2018 | For college freshmen and sophomores.|
-| [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice | 
+| [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
+| [Lyft](https://www.lyft.com/jobs)  | CA | Late August-? | | 
+| [MongoDB](https://www.mongodb.com/careers/departments/college-students)  | NY | September-?| |
+| [Pinterest](https://careers.pinterest.com/careers/interns-and-new-grads)  | CA | Early September-?| |
 | SAS Institute  | NC | September-February | [Expression of interest](https://careers-sas.icims.com/jobs/13379/expression-of-interest%3A-2019-summer-intern-program/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) form available | 
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
+| [Uber](http://careersinfo.uber.com/university)  | CA | Late August-? | |
+
+
 
 ## Unknown application release date 
 
@@ -112,7 +119,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
 | [Palantir Path](https://careers.pinterest.com/careers/interns-and-new-grads)  | NY | ? | A program for sophomores/juniors with limited industry experience|
 | [Pandora](https://pandora.com/careers/universityrecruiting)  | CA | ? | Sign up for job notifications [here](http://jobs.jobvite.com/pandora/jobAlerts)|
-| [Pinterest](https://careers.pinterest.com/careers/interns-and-new-grads)  | CA | ? | |
 | [Pixar Undergraduate Program](https://www.pixar.com/internships/#internships-main)  | CA | ? | |
 | [SpaceX](https://www.spacex.com/careers/list?field_job_category_tid%5B%5D=966)  | CA | ? | |
 | [Strava](https://boards.greenhouse.io/strava#.WFiiq6IrJBx)  | CA | ? | |
