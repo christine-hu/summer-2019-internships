@@ -92,7 +92,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 
 ## Applications opening soon
 
-| Name | Location | Application Period | Notes  | 
+| Name | Location | Open Date/Period | Notes  | 
 |---|---|---|---|
 | [Amazon Future Engineers](https://www.amazonfutureengineer.com/)  | ? | September 1st-December 1st  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
 | [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | CA, TX (?) | September-December  | |
@@ -100,12 +100,12 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Facebook University](https://www.facebook.com/careers/students-and-grads/students)  | CA | December 1st-January 15th  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | Google Engineering Practicum  | Multiple | Fall 2018 | For college freshmen and sophomores.|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
-| [Lyft](https://www.lyft.com/jobs)  | CA | Late August-? | | 
-| [MongoDB](https://www.mongodb.com/careers/departments/college-students)  | NY | September-?| |
-| [Pinterest](https://careers.pinterest.com/careers/interns-and-new-grads)  | CA | Early September-?| |
+| [Lyft](https://www.lyft.com/jobs)  | CA | First week of September | | 
+| [MongoDB](https://www.mongodb.com/careers/departments/college-students)  | NY | September| |
+| [Pinterest](https://careers.pinterest.com/careers/interns-and-new-grads)  | CA | Early September| |
 | SAS Institute  | NC | September-February | [Expression of interest](https://careers-sas.icims.com/jobs/13379/expression-of-interest%3A-2019-summer-intern-program/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) form available | 
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
-| [Uber](http://careersinfo.uber.com/university)  | CA | Late August-? | |
+| [Uber](http://careersinfo.uber.com/university)  | CA | Late August | |
 
 
 
