@@ -22,6 +22,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [BlackRock](https://www.wayup.com/i-Financial-Services-j-Software-Engineering-Summer-Analyst-2019-BlackRock-452850830832505/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Multiple | Present | Juniors only |
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | CA | Present | Must graduate by June 2020 |
 | [BookBub](https://www.bookbub.com/positions?gh_jid=1289755&gh_src=af34ffd31)  | MA | Present | |
+| [Bracebridge Capital](https://www.linkedin.com/jobs/view/725013688/)  | MA | Present | |
 | [Chegg](https://jobs.chegg.com/job/CHEGA00561314/Software-Engineer-Intern)  | CA | Present | |
 | [Chick-fil-a](https://www.themuse.com/jobs/chickfila/2019-springsummer-software-engineering-innovation-intern?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | GA | Present | Current juniors and seniors only |
 | [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?projectSort=schemaField_3_19_3&projectSortDirection=ASC&&projectOffset=0)  | Multiple | Present | Many opportunities, from [SWE](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1231195?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program) to [Data Science](https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1232432?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program)—check main link for all listings |
@@ -47,6 +48,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Intel](https://jobs.intel.com/ShowJob/Id/1678929/Undergraduate-Intern-2019-Software-Engineering/)  | CA | Present | |
 | [IXL Learning](https://www.ixl.com/company/jobs/internship)  | CA | Present | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/)  | NY | Present | |
+| [Jet.com](https://www.linkedin.com/jobs/view/767590159/)  | NJ | Present | |
 | [Johnson & Johnson](https://jobs.jnj.com/jobs/7066180716/3-2019-Technology-Summer-Internship-College-Hire-?lang=en-us&src=JB-10281)  | NJ, FL, PA, IN, CA, RI, GA | Present | Must graduate by June 2020|
 | [JP Morgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180068843)  | NY, IL, OH, TX, NJ, DE, NY, TX, CA, FL, DE | Present | Must graduate by June 2020|
 | [Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=856230)  | IL | Present | |
