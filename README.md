@@ -76,6 +76,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)  | CA, NY, VA, FL, WA, GA, IN | Present |  |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Bloomington-MN/Software-Engineer-2019-Summer-Intern_IRC73181)  | MN | Present |  |
 | [Shutterfly](https://jobs.jobvite.com/shutterflyinc/job/olDe8fw4)  | CA | Present |  |
+| [Slack](https://slack.com/careers/951251/summer-software-engineering-intern-2019)  | CA | Present |  |
 | [Starsky Robotics](https://jobs.lever.co/starskyrobotics/636cbd7f-0a33-4072-996d-de28dc6b96ba)  | CA | Present |  |
 | [State Farm](https://statefarm.csod.com/ats/careersite/search.aspx?site=1&c=statefarm)  | IL | Present | For tech-specific: [link1](https://statefarm.csod.com/ats/careersite/JobDetails.aspx?site=1&id=4465) [link2](https://statefarm.csod.com/ats/careersite/JobDetails.aspx?site=1&id=4508) |
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-san-francisco)  | CA | Present | Must graduate in 2020 or 2021.|\
