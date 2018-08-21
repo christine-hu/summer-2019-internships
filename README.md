@@ -55,6 +55,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Karat](https://jobs.lever.co/karat/c6666daf-6103-4430-85ac-4a45f5b0acfa)  | WA | Present | |
 | [Kayak](https://jobs.jobvite.com/kayak/job/ooha8fwH)  | MA | Present | Data engineering position. SWE positions available in Germany and Lithuania|
 | [Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/15827)  | CA | Present | |
+| [Knewton](https://www.builtinnyc.com/job/internship/software-engineering-internship-summer-2019/42518)  | NY | Present | |
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?fl=6252001,4566966)  | Multiple | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | August 9th-Present | |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | WA | August 17th-Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
