@@ -67,6 +67,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | IL | Present | |
 | [Plaid](https://plaid.com/careers/#software-engineer-intern)  | CA | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | NY, CA, WA, D.C., Australia, London, Canada | Present | Must graduate in 2020|
+| [Peak6 Investments](https://www.builtinchicago.org/job/internship/technology-experience-women-2019-summer-internship/64218)  | IL | Present | Must be female and graduate in Dec. 2019 or June 2020|
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
 | [Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Boulder-CO/Intern---Software---Summer-2019_R000645-2?Codes=SM-LinkedIn)  | CO | Present | Juniors preferred |
 | Quora | CA | Present | Available positions: [Data Scientist](https://jobs.lever.co/quora/2274c5e5-79de-47d3-bdf8-7a5bdfda0ebb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic), [Product Designer](https://jobs.lever.co/quora/86333564-3855-4753-ba2f-6358115cb6af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)|
