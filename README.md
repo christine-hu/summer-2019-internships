@@ -12,10 +12,13 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 ## Currently Open Applications
 | Name | Location | Application Period | Notes  | 
 |---|---|---|---|
+| [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
 | [Airbnb](https://www.airbnb.com/careers/departments/position/1213896)  | CA | Present | |
 | [Akuna Capital](https://akunacapital.com/careers)  | IL, MA | Present | Not open to freshman; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
 | [AllianceBernstein](https://www.linkedin.com/jobs/view/software-development-summer-internship-technology-operations-program-at-alliancebernstein-795432210/)  | NY| Present | Graduation date in Dec. 2019 or May/June 2020. |
 | [Altera](https://www.ziprecruiter.com/c/Altera/Job/Undergraduate-Intern-2019-Software-Engineering/-in-Santa-Clara,CA?ojob=2051ed1e1aa182542a76afdc45f164f5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present |  |
+https://us-amazon.icims.com/jobs/707905/software-development-engineer-intern-summer-2019/job
+| [Amazon](https://www.amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states)  | WA,  TX, CA, MA, CO, MI, VA, NY, WI, MN, AZ, OR | Present |  |
 | [American Express](https://jobs.americanexpress.com/jobs/18012247?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | AZ, FL, NY | Present | Graduation date between December 2019 and June 2021 |
 | [Appian](https://boards.greenhouse.io/appian/jobs/1284024)  | VA | Present | |
 | [Astranis](https://jobs.lever.co/astranis/?team=Internships)  | CA | Present | Fall 18, Spring 19, Summer 19. Software, but also Electrical, Aerospace, and Mechanical too! |
@@ -33,6 +36,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Constant Contact](https://boards.greenhouse.io/endurance/jobs/910708)  | MA | Present | Security research position |
 | [Convoy](https://jobs.lever.co/convoy/86c7bb6e-c592-43bf-87c8-a1eec90af2f3/apply?lever-source=Glassdoor)  | WA | Present | Must graduate in 2020 |
 | [Couple](https://couple.me/jobs)  | CA | Present | |
+| [Dell](https://jobs.dell.com/job/-/-/375/9080010)  | MA | Present | |
 | [DE Shaw](https://www.deshaw.com/careers#internships)  | NY | Present | Many positions available: quant research, swe, etc. |
 | [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | PA | Present | Must graduate by June 2020 |
 | [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | NY | Present | Must graduate in/after December 2020. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
@@ -43,6 +47,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Garmin](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-07%3A00)  | KS | August 13th-Present  | Also available: [Design Engineer Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UC&tz=GMT-07%3A00), [AZ Location](https://jobs.aviationjobnet.com/job/453294/software-engineer-intern-chandler-az-summer-2019/)  |
 | [General Electric](https://neuvoo.com/view/?id=pruh2dhg6d&source=gfj&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | FL, IL, MO, NV, PA, TX | Present |  |
 | [Granular](https://angel.co/granular-2/jobs/411977-software-engineering-internship-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IA | Present | |
+| [Gusto](https://www.indeed.com/viewjob?jk=a330c1964f018a5a)  | CA | Present | |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
 | [IBM](https://careers.ibm.com/ShowJob/Id/323739/2019%20Software%20Developer%20Internship#CALosAngeles)  | AZ, CA, CO, GA, MA, MN, NC, NY, OH, OR, PA, TX, VT | Present | |
@@ -50,6 +55,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Illumio](https://jobs.smartrecruiters.com/Illumio/743999675308471-data-engineer-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present | Must graduate in June 2020. Data Engineer role |
 | [IMC Trading](https://www.builtinchicago.org/job/internship/software-engineer-intern-summer-2019/63491?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IL | Present | |
 | [Intel](https://jobs.intel.com/ShowJob/Id/1678929/Undergraduate-Intern-2019-Software-Engineering/)  | CA | Present | |
+| [InterSystems](https://www.indeed.com/viewjob?jk=b0b085b982e183e3)  | MA | Present | |
 | [IXL Learning](https://www.ixl.com/company/jobs/internship)  | CA | Present | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/)  | NY | Present | |
 | [Jet.com](https://www.linkedin.com/jobs/view/767590159/)  | NJ | Present | |
@@ -80,6 +86,8 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Boulder-CO/Intern---Software---Summer-2019_R000645-2?Codes=SM-LinkedIn)  | CO | Present | Juniors preferred |
 | [Pure Storage](https://www.builtinseattle.com/job/internship/2019-software-engineer-intern-bel/3682)  | WA | Present |  |
 | Quora | CA | Present | Available positions: [Data Scientist](https://jobs.lever.co/quora/2274c5e5-79de-47d3-bdf8-7a5bdfda0ebb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic), [Product Designer](https://jobs.lever.co/quora/86333564-3855-4753-ba2f-6358115cb6af)|
+| [Quantcast](https://jobs.lever.co/quantcast/1927c62b-837b-415e-8a13-32b720e90735)  | CA | Present | Graduation date between Dec. 2019 and June 2020 |
+| [Raytheon](https://jobs.rayjobs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25258&siteid=5368&AReq=120762BR&gqid=0&codes=3640#jobDetails=1402777_5368)  | MA | Present | |
 | [Red Ventures](https://www.careerbliss.com/jobs/detail/1603639395)  | NC | Present | Must graduate in 2020 |
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/1267864?gh_jid=1267864&gh_src=vs7ga51)  | CA | Present |  |
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/996796)  | CA | Present |  |
@@ -93,10 +101,13 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-san-francisco)  | CA | Present | Must graduate in 2020 or 2021.|
 | [Synopsys](https://www.linkedin.com/jobs/view/755847760/)  | OR | Present | Combines CS with EE |
 | [Target](https://jobs.target.com/job/-/-/1118/8984961?src=JB-10182)  | MN | Present | Juniors only |
+| [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=266053&src=JB-10146)  | MD | Present |  |
 | [Twitter Academy](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | CA | Present | For second-year students who are black, Hispanic/Latinx, or Native American.|
 | [Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=4252&source=Direct+Applicant&tags=internshipinfographic)  | NY | Present | [Quantitative Research](https://careers.twosigma.com/careers/Careers?jobId=4357&source=Direct+Applicant&tags=internshipinfographic) position also available.|
 | [Under Armour](https://careers.underarmour.com/job/baltimore/rookie-2019-summer-league-internship-technology-and-product-development/7686/9059414)  | MD | Present | No freshmen |
+| [U.S. Bank](https://usbank.taleo.net/careersection/10000/jobdetail.ftl?job=180030905&iniurl.src=DM-10101&tz=GMT-04%3A00)  | MN | Present | |
 | [Valassis](https://www.valassisdigital.com/careers/?gnk=job&gni=8a78859e64f8dfac0165395973ca3346&gns=LinkedIn+Limited)  | NC | Present | Keywords: Big Data, High Scalability Engineering, Web Applications |
+| [Wish](https://jobs.lever.co/wish/edc42df8-fc30-47a9-ab93-5f0a185c4b0c)  | CA | Present | |
 | [Xylem](https://www.xylem.com/en-us/careers/career-opportunities?page=1&pagesize=24&keyword=intern)  | OH | Present | Electrical Engineer Intern |
 | [Zoox](https://www.ziprecruiter.com/c/Zoox/Job/Software-Engineer-Intern-2019/-in-Foster-City,CA?ojob=7d6e4edb956f1b58b3bfbf56a0a48828&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present | Must be within 1-2 years of graduation |
 
