@@ -25,6 +25,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0n04ox)  | IL | Present | Must graduate in Dec 2019/June 2020 |
 | [BlackRock](https://www.wayup.com/i-Financial-Services-j-Software-Engineering-Summer-Analyst-2019-BlackRock-452850830832505/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Multiple | Present | Juniors only |
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | CA | Present | Must graduate by June 2020 |
+| [Boeing](https://jobs.boeing.com/job/seattle/engineering-internships-paid-summer-2019-multiple-locations/185/9103812)  | Multiple | Present | |
 | [BookBub](https://www.bookbub.com/positions?gh_jid=1289755&gh_src=af34ffd31)  | MA | Present | |
 | [Bracebridge Capital](https://www.linkedin.com/jobs/view/725013688/)  | MA | Present | |
 | [Chegg](https://jobs.chegg.com/job/CHEGA00561314/Software-Engineer-Intern)  | CA | Present | |
@@ -119,7 +120,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 |---|---|---|---|
 | [Amazon Future Engineers](https://www.amazonfutureengineer.com/)  | ? | September 1st-December 1st  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
 | [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | CA, TX (?) | September-December  | |
-| [Boeing](https://jobs.boeing.com/category/engineering-internships-jobs/185/18288/1)  | Multiple | August 24th | |
 | [Facebook University](https://www.facebook.com/careers/students-and-grads/students)  | CA | December 1st-January 15th  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | Google Engineering Practicum  | Multiple | Fall 2018 | For college freshmen and sophomores.|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
