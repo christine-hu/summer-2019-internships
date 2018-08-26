@@ -25,6 +25,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0n04ox)  | IL | Present | Must graduate in Dec 2019/June 2020 |
 | [BlackRock](https://www.wayup.com/i-Financial-Services-j-Software-Engineering-Summer-Analyst-2019-BlackRock-452850830832505/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Multiple | Present | Juniors only |
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | CA | Present | Must graduate by June 2020 |
+| [Bloomberg](https://careers.bloomberg.com/job/detail/68834?el=Internships)  | NY | Present | |
 | [Boeing](https://jobs.boeing.com/job/seattle/engineering-internships-paid-summer-2019-multiple-locations/185/9103812)  | Multiple | Present | |
 | [BookBub](https://www.bookbub.com/positions?gh_jid=1289755&gh_src=af34ffd31)  | MA | Present | |
 | [Bracebridge Capital](https://www.linkedin.com/jobs/view/725013688/)  | MA | Present | |
@@ -76,6 +77,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Narrative Science](https://www.startwire.com/express_apply_jobs/NDE2OF9lNzU3MTExMmUzMjlmNTg5NDYwNDg2NWIzZTgwYzZiY19sdXVhX2k=?source=adzuna_l2_HRCommunityAdmin)  | IL | Present | |
 | [National Instruments](https://www.linkedin.com/jobs/view/intern-co-op-software-engineer-2019-at-national-instruments-811364289/)  | TX | Present | |
 | [NBC](https://www.linkedin.com/jobs/view/r-d-software-engineering-intern-summer-2019-at-nbcuniversal-media-llc-815599611/)  | CA | Present | |
+| [Nextdoor](https://nextdoor.com/jobs/?gh_jid=1258419)  | CA | Present | Must graduate in 2020 |
 | [Noblis](https://jobs-noblis.icims.com/jobs/6218/2019-technical%2C-paid-summer-internships-%28returning%29/job)  | VA | Present | |
 | [Northrop Grumman](https://neuvoo.com/view/?id=7auiyzipit&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=edd9aadfd9db7ad7c9d7c9d6cad7d9dgbad7f9dc3ee3cdcgfec3dc&splitab=1&action=emailAlert)  | MN | Present | No seniors |
 | [Occipital](https://occipital.com/jobs)  | IL | Present | No official program, but open to internships for any full time engineering role |
@@ -103,6 +105,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Synopsys](https://www.linkedin.com/jobs/view/755847760/)  | OR | Present | Combines CS with EE |
 | [Target](https://jobs.target.com/job/-/-/1118/8984961?src=JB-10182)  | MN | Present | Juniors only |
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=266053&src=JB-10146)  | MD | Present |  |
+| [Thumbtack](https://boards.greenhouse.io/thumbtack/jobs/2570)  | CA | Present | Must graduate in 2020 |
 | [Twitter Academy](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | CA | Present | For second-year students who are black, Hispanic/Latinx, or Native American.|
 | [Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=4252&source=Direct+Applicant&tags=internshipinfographic)  | NY | Present | [Quantitative Research](https://careers.twosigma.com/careers/Careers?jobId=4357&source=Direct+Applicant&tags=internshipinfographic) position also available.|
 | [Under Armour](https://careers.underarmour.com/job/baltimore/rookie-2019-summer-league-internship-technology-and-product-development/7686/9059414)  | MD | Present | No freshmen |
