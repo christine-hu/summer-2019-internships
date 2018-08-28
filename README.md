@@ -108,6 +108,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Thumbtack](https://boards.greenhouse.io/thumbtack/jobs/2570)  | CA | Present | Must graduate in 2020 |
 | [Twitter Academy](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | CA | Present | For second-year students who are black, Hispanic/Latinx, or Native American.|
 | [Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=4252&source=Direct+Applicant&tags=internshipinfographic)  | NY | Present | [Quantitative Research](https://careers.twosigma.com/careers/Careers?jobId=4357&source=Direct+Applicant&tags=internshipinfographic) position also available.|
+| [Uber](https://www.uber.com/careers/list/41577/)  | CA | Present | |
 | [Under Armour](https://careers.underarmour.com/job/baltimore/rookie-2019-summer-league-internship-technology-and-product-development/7686/9059414)  | MD | Present | No freshmen |
 | [U.S. Bank](https://usbank.taleo.net/careersection/10000/jobdetail.ftl?job=180030905&iniurl.src=DM-10101&tz=GMT-04%3A00)  | MN | Present | |
 | [Valassis](https://www.valassisdigital.com/careers/?gnk=job&gni=8a78859e64f8dfac0165395973ca3346&gns=LinkedIn+Limited)  | NC | Present | Keywords: Big Data, High Scalability Engineering, Web Applications |
@@ -134,9 +135,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Pinterest](https://careers.pinterest.com/careers/interns-and-new-grads)  | CA | Early September| |
 | SAS Institute  | NC | September-February | [Expression of interest](https://careers-sas.icims.com/jobs/13379/expression-of-interest%3A-2019-summer-intern-program/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) form available | 
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
-| [Uber](http://careersinfo.uber.com/university)  | CA | Late August | |
-
-
 
 ## Unknown application release date 
 
