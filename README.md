@@ -130,6 +130,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
 | [Lyft](https://www.lyft.com/jobs)  | CA | First week of September | | 
 | [MongoDB](https://www.mongodb.com/careers/departments/college-students)  | NY | September| |
+| New York Times  | NY | by mid-Nov. | |
 | [Pinterest](https://careers.pinterest.com/careers/interns-and-new-grads)  | CA | Early September| |
 | SAS Institute  | NC | September-February | [Expression of interest](https://careers-sas.icims.com/jobs/13379/expression-of-interest%3A-2019-summer-intern-program/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) form available | 
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
