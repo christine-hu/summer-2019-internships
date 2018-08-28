@@ -30,6 +30,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [BookBub](https://www.bookbub.com/positions?gh_jid=1289755&gh_src=af34ffd31)  | MA | Present | |
 | [Bracebridge Capital](https://www.linkedin.com/jobs/view/725013688/)  | MA | Present | |
 | [Broadway Technology](https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-intern-summer-2019-at-broadway-technology-llc-815857053/)  | NY | Present | |
+| [Cadre](https://cadre.com/careers/apply?gh_jid=1298465&gh_src=f4dnhe1)  | NY | Sep. 30 deadline | Graduate in Dec. 2019 or May 2020 |
 | [Chegg](https://jobs.chegg.com/job/CHEGA00561314/Software-Engineer-Intern)  | CA | Present | |
 | [Chick-fil-a](https://www.themuse.com/jobs/chickfila/2019-springsummer-software-engineering-innovation-intern)  | GA | Present | Current juniors and seniors only |
 | [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?projectSort=schemaField_3_19_3&projectSortDirection=ASC&&projectOffset=0)  | Multiple | Present | Many opportunities, from [SWE](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1231195?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program) to [Data Science](https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1232432?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program)—check main link for all listings |
