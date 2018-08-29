@@ -116,7 +116,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [U.S. Bank](https://usbank.taleo.net/careersection/10000/jobdetail.ftl?job=180030905&iniurl.src=DM-10101&tz=GMT-04%3A00)  | MN | Present | |
 | [Valassis](https://www.valassisdigital.com/careers/?gnk=job&gni=8a78859e64f8dfac0165395973ca3346&gns=LinkedIn+Limited)  | NC | Present | Keywords: Big Data, High Scalability Engineering, Web Applications |
 | [Wish](https://jobs.lever.co/wish/edc42df8-fc30-47a9-ab93-5f0a185c4b0c)  | CA | Present | |
-| [Wolvering Trading](https://chk.tbe.taleo.net/chk01/ats/careers/requisition.jsp?org=WOLVE&cws=1&rid=280)  | IL | Present | |
+| [Wolverine Trading](https://chk.tbe.taleo.net/chk01/ats/careers/requisition.jsp?org=WOLVE&cws=1&rid=280)  | IL | Present | |
 | [Xylem](https://www.xylem.com/en-us/careers/career-opportunities?page=1&pagesize=24&keyword=intern)  | OH | Present | Electrical Engineer Intern |
 | [Yext](https://www.builtinnyc.com/job/internship/2019-software-engineer-summer-intern/42708)  | NY | Present | Graduation date between Dec. 2019 and Aug. 2021 |
 | [Zoox](https://www.ziprecruiter.com/c/Zoox/Job/Software-Engineer-Intern-2019/-in-Foster-City,CA?ojob=7d6e4edb956f1b58b3bfbf56a0a48828&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present | Must be within 1-2 years of graduation |
