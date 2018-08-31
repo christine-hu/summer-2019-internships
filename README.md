@@ -139,6 +139,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | December | |
 | SAS Institute  | NC | September 1st-February | [Expression of interest](https://careers-sas.icims.com/jobs/13379/expression-of-interest%3A-2019-summer-intern-program/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) form available | 
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
+|[Spotify](https://www.spotifyjobs.com/students/) | NY | Late September  | |
 
 ## Unknown application release date 
 
