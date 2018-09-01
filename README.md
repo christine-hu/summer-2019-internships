@@ -99,6 +99,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/996796)  | CA | Present |  |
 | [Roblox](https://corp.roblox.com/jobs/?gh_jid=1290141)  | CA | Present |  |
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)  | CA, NY, VA, FL, WA, GA, IN | Present |  |
+| [SAS Institute](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)  | NC | Present | Also has special programs for veterans and minorities | 
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Bloomington-MN/Software-Engineer-2019-Summer-Intern_IRC73181)  | MN | Present |  |
 | [Shutterfly](https://jobs.jobvite.com/shutterflyinc/job/olDe8fw4)  | CA | Present |  |
 | [Slack](https://slack.com/careers/951251/summer-software-engineering-intern-2019)  | CA | Present |  |
@@ -137,7 +138,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | New York Times  | NY | by mid-Nov. | |
 | [Pinterest](https://careers.pinterest.com/careers/interns-and-new-grads)  | CA | Early September| |
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | December | |
-| SAS Institute  | NC | September 1st-February | [Expression of interest](https://careers-sas.icims.com/jobs/13379/expression-of-interest%3A-2019-summer-intern-program/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&mobile=false&width=1180&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) form available | 
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
 |[Spotify](https://www.spotifyjobs.com/students/) | NY | Late September  | |
 
