@@ -85,6 +85,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Northrop Grumman](https://neuvoo.com/view/?id=7auiyzipit&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=edd9aadfd9db7ad7c9d7c9d6cad7d9dgbad7f9dc3ee3cdcgfec3dc&splitab=1&action=emailAlert)  | MN | Present | No seniors |
 | [Occipital](https://occipital.com/jobs)  | IL | Present | No official program, but open to internships for any full time engineering role |
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | IL | Present | |
+| [OSIsoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2019_R001322)  | CA, TN, PA, AZ | Present | |
 | [Plaid](https://plaid.com/careers/#software-engineer-intern)  | CA | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | NY, CA, WA, D.C., Australia, London, Canada | Present | Must graduate in 2020|
 | [Peak6 Investments](https://www.builtinchicago.org/job/internship/technology-experience-women-2019-summer-internship/64218)  | IL | Present | Must be female and graduate in Dec. 2019 or June 2020|
