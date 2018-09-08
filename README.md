@@ -153,7 +153,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [IBM Extreme Blue](http://www-01.ibm.com/employment/us/extremeblue/apply_us.html)  | TX, NC | ? | |
 | [OpenAI](https://jobs.lever.co/openai/b85c9d18-1baf-4c98-8c2f-893d4fbb3c3f)  | CA | ? | Machine Learning Intern |
 | [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
-| [Palantir Path](https://careers.pinterest.com/careers/interns-and-new-grads)  | NY | ? | A program for sophomores/juniors with limited industry experience|
+| [Palantir Path](https://www.palantir.com/careers/)  | NY | ? | A program for sophomores/juniors with limited industry experience|
 | [Pandora](https://pandora.com/careers/universityrecruiting)  | CA | ? | Sign up for job notifications [here](http://jobs.jobvite.com/pandora/jobAlerts)|
 | [Pixar Undergraduate Program](https://www.pixar.com/internships/#internships-main)  | CA | ? | |
 | [SpaceX](https://www.spacex.com/careers/list?field_job_category_tid%5B%5D=966)  | CA | ? | |
