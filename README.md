@@ -91,6 +91,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [OSIsoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2019_R001322)  | CA, TN, PA, AZ | Present | |
 | [Plaid](https://plaid.com/careers/#software-engineer-intern)  | CA | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | NY, CA, WA, D.C., Australia, London, Canada | Present | Must graduate in 2020|
+| [Palantir Path](https://www.palantir.com/careers/)  | NY; Washington DC | Present | For sophomores/juniors with limited industry experience |
 | [Peak6 Investments](https://www.builtinchicago.org/job/internship/technology-experience-women-2019-summer-internship/64218)  | IL | Present | Must be female and graduate in Dec. 2019 or June 2020|
 | [Pinterest](https://careers.pinterest.com/careers/details/software-engineer-intern_san-francisco_1279340)  | CA | Present | |
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
@@ -153,7 +154,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [IBM Extreme Blue](http://www-01.ibm.com/employment/us/extremeblue/apply_us.html)  | TX, NC | ? | |
 | [OpenAI](https://jobs.lever.co/openai/b85c9d18-1baf-4c98-8c2f-893d4fbb3c3f)  | CA | ? | Machine Learning Intern |
 | [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
-| [Palantir Path](https://www.palantir.com/careers/)  | NY | ? | A program for sophomores/juniors with limited industry experience|
 | [Pandora](https://pandora.com/careers/universityrecruiting)  | CA | ? | Sign up for job notifications [here](http://jobs.jobvite.com/pandora/jobAlerts)|
 | [Pixar Undergraduate Program](https://www.pixar.com/internships/#internships-main)  | CA | ? | |
 | [SpaceX](https://www.spacex.com/careers/list?field_job_category_tid%5B%5D=966)  | CA | ? | |
