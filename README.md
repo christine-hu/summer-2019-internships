@@ -54,6 +54,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Granular](https://angel.co/granular-2/jobs/411977-software-engineering-internship-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IA | Present | |
 | [Gusto](https://boards.greenhouse.io/gusto/jobs/483342)  | CA | Present | |
 | [Google](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineering-intern-bs-summer-google-building-c-747-6th-st-s-kirkland-4235670072&)  | Multiple | September 17th | |
+| [Github](https://github.com/about/careers#internships)  | CA | Present | |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
 | [IBM](https://careers.ibm.com/ShowJob/Id/323739/2019%20Software%20Developer%20Internship#CALosAngeles)  | AZ, CA, CO, GA, MA, MN, NC, NY, OH, OR, PA, TX, VT | Present | |
