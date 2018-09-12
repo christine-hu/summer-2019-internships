@@ -51,7 +51,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Garmin](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-07%3A00)  | KS | August 13th-Present  | Also available: [Design Engineer Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UC&tz=GMT-07%3A00), [AZ Location](https://jobs.aviationjobnet.com/job/453294/software-engineer-intern-chandler-az-summer-2019/)  |
 | [General Electric](https://neuvoo.com/view/?id=pruh2dhg6d&source=gfj&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | FL, IL, MO, NV, PA, TX | Present |  |
 | [Granular](https://angel.co/granular-2/jobs/411977-software-engineering-internship-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IA | Present | |
-| [Gusto](https://www.indeed.com/viewjob?jk=a330c1964f018a5a)  | CA | Present | |
+| [Gusto](https://boards.greenhouse.io/gusto/jobs/483342)  | CA | Present | |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
 | [IBM](https://careers.ibm.com/ShowJob/Id/323739/2019%20Software%20Developer%20Internship#CALosAngeles)  | AZ, CA, CO, GA, MA, MN, NC, NY, OH, OR, PA, TX, VT | Present | |
