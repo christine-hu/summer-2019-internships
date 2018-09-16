@@ -166,4 +166,3 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Strava](https://boards.greenhouse.io/strava#.WFiiq6IrJBx)  | CA | ? | |
 | [Tesla](https://www.tesla.com/careers/search#/?keyword=intern&department=1)  | CA | ? | |
 | [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | CA | ? | For high-performing freshmen |
-| [Twilio](https://www.twilio.com/jobs)  | CA | ? | |
