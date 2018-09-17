@@ -45,6 +45,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | PA | Present | Must graduate by June 2020 |
 | [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | NY | Present | Must graduate in/after December 2020. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
 | [DRW](https://www.builtinchicago.org/job/internship/software-developer-intern/63760)  | IL | Present | Must graduate between Dec. 2019 and June 2021. |
+| [Electronic Arts](https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152597)  | FL | Present | Juniors only |
 | [Etsy](https://jobs.lever.co/etsy/20631f36-1825-4443-9f2a-51d5cfa5e4bb/apply?lever-source=themuse)  | NY | Present |  |
 | Facebook | CA, WA, CO | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
@@ -156,7 +157,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 |---|---|---|---|
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | CA | ? | |
-| [Electronic Arts](https://www.ea.com/en-ca/careers/students)  | Multiple | ? | |
 | [IBM Extreme Blue](http://www-01.ibm.com/employment/us/extremeblue/apply_us.html)  | TX, NC | ? | |
 | [OpenAI](https://jobs.lever.co/openai/b85c9d18-1baf-4c98-8c2f-893d4fbb3c3f)  | CA | ? | Machine Learning Intern |
 | [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
