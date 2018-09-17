@@ -53,7 +53,8 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [General Electric](https://neuvoo.com/view/?id=pruh2dhg6d&source=gfj&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | FL, IL, MO, NV, PA, TX | Present |  |
 | [Granular](https://angel.co/granular-2/jobs/411977-software-engineering-internship-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IA | Present | |
 | [Gusto](https://boards.greenhouse.io/gusto/jobs/483342)  | CA | Present | |
-| [Google](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineering-intern-bs-summer-google-building-c-747-6th-st-s-kirkland-4235670072&)  | Multiple | September 17th | |
+| [Google](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineering-intern-bs-summer-google-building-c-747-6th-st-s-kirkland-4235670072&)  | Multiple | Present | |
+| [Google Engineering Practicum](https://careers.google.com/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2019-76-9th-ave-new-york-ny-10011-usa-4258870559&)  | Multiple | Present | For college freshmen and sophomores.|
 | [Github](https://github.com/about/careers#internships)  | CA | Present | |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
@@ -143,7 +144,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Amazon Future Engineers](https://www.amazonfutureengineer.com/)  | ? | September 1st-December 1st  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
 | [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | CA, TX (?) | September-December  | |
 | [Facebook University](https://www.facebook.com/careers/students-and-grads/students)  | CA | December 1st-January 15th  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
-| Google Engineering Practicum  | Multiple | Fall 2018 | For college freshmen and sophomores.|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
 | New York Times  | NY | by mid-Nov. | |
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | December | |
