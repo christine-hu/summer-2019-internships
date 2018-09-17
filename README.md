@@ -147,6 +147,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | CA, TX (?) | September-December  | |
 | [Facebook University](https://www.facebook.com/careers/students-and-grads/students)  | CA | December 1st-January 15th  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
+|[Mozilla](https://careers.mozilla.org/university/#apply) | CA, Toronto, Paris | September-March  | |
 | New York Times  | NY | by mid-Nov. | |
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | December | |
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
