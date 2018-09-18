@@ -125,6 +125,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=266053&src=JB-10146)  | MD | Present |  |
 | [Thumbtack](https://boards.greenhouse.io/thumbtack/jobs/2570)  | CA | Present | Must graduate in 2020 |
 | [Twilio](https://www.twilio.com/jobs)  | CA | Present | Multiple positions, including PM |
+| [Twitch](https://jobs.lever.co/twitch/564f4325-6bff-466e-8b4c-b20fde00ac2c) | CA | Present | Must have completed sophomore year |
 | [Twitter Academy](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | CA | Present | For second-year students who are black, Hispanic/Latinx, or Native American.|
 | [Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=4252&source=Direct+Applicant&tags=internshipinfographic)  | NY | Present | [Quantitative Research](https://careers.twosigma.com/careers/Careers?jobId=4357&source=Direct+Applicant&tags=internshipinfographic) position also available.|
 | [Uber](https://www.uber.com/careers/list/41577/)  | CA | Present | |
