@@ -118,6 +118,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Bloomington-MN/Software-Engineer-2019-Summer-Intern_IRC73181)  | MN | Present |  |
 | [Shutterfly](https://jobs.jobvite.com/shutterflyinc/job/olDe8fw4)  | CA | Present |  |
 | [Slack](https://slack.com/careers/951251/summer-software-engineering-intern-2019)  | CA | Present |  |
+| [SpaceX](https://boards.greenhouse.io/spacex/jobs/4079311002?gh_jid=4079311002)  | FL, CA, TX, WA, D.C. | Present | |
 | [Starsky Robotics](https://jobs.lever.co/starskyrobotics/636cbd7f-0a33-4072-996d-de28dc6b96ba)  | CA | Present |  |
 | [State Farm](https://statefarm.csod.com/ats/careersite/search.aspx?site=1&c=statefarm)  | IL | Present | For tech-specific: [link1](https://statefarm.csod.com/ats/careersite/JobDetails.aspx?site=1&id=4465) [link2](https://statefarm.csod.com/ats/careersite/JobDetails.aspx?site=1&id=4508) |
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-san-francisco)  | CA | Present | Must graduate in 2020 or 2021.|
@@ -166,7 +167,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
 | [Pandora](https://pandora.com/careers/universityrecruiting)  | CA | ? | Sign up for job notifications [here](http://jobs.jobvite.com/pandora/jobAlerts)|
 | [Pixar Undergraduate Program](https://www.pixar.com/internships/#internships-main)  | CA | ? | |
-| [SpaceX](https://www.spacex.com/careers/list?field_job_category_tid%5B%5D=966)  | CA | ? | |
 | [Strava](https://boards.greenhouse.io/strava#.WFiiq6IrJBx)  | CA | ? | |
 | [Tesla](https://www.tesla.com/careers/search#/?keyword=intern&department=1)  | CA | ? | |
 | [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | CA | ? | For high-performing freshmen |
