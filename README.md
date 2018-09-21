@@ -80,6 +80,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Lyft](https://www.lyft.com/careers/university-recruiting)  | CA, WA, NY, Germany | Present | | 
 | [Managed by Q](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-managed-by-q-827630644/)  | NY | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | Present | |
+| [Ebay](https://jobs.ebayinc.com/job/bellevue/software-engineer-intern/403/9393469) | CA, WA, OR, MA, NY | Present | |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | WA | Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
 | [MongoDB](https://www.mongodb.com/careers/jobs/1306593)  | NY | Present | |
 | [Morgan Stanley](https://www.linkedin.com/jobs/view/2019-technology-summer-analyst-program-new-york-at-morgan-stanley-692136510/)  | NY | Present | |
