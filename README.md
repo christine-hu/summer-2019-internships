@@ -43,15 +43,21 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Dell](https://jobs.dell.com/job/-/-/375/9080010)  | MA | Present | |
 | [DE Shaw](https://www.deshaw.com/careers#internships)  | NY | Present | Many positions available: quant research, swe, etc. |
 | [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | PA | Present | Must graduate by June 2020 |
-| [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | NY | Present | Must graduate in/after December 2020. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
+| [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | NY | Present | Must graduate in/after December 2019. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
 | [DRW](https://www.builtinchicago.org/job/internship/software-developer-intern/63760)  | IL | Present | Must graduate between Dec. 2019 and June 2021. |
+| [Ebay](https://jobs.ebayinc.com/job/bellevue/software-engineer-intern/403/9393469) | CA, WA, OR, MA, NY | Present | |
+| [Electronic Arts](https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152597)  | FL | Present | Juniors only |
+| [Etsy](https://jobs.lever.co/etsy/20631f36-1825-4443-9f2a-51d5cfa5e4bb/apply?lever-source=themuse)  | NY | Present |  |
 | Facebook | CA, WA, CO | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
 | [Five Rings Capital](http://jobs.jobvite.com/fiverings/job/ouw77fwY)  | NY | Present | |
 | [Garmin](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-07%3A00)  | KS | August 13th-Present  | Also available: [Design Engineer Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UC&tz=GMT-07%3A00), [AZ Location](https://jobs.aviationjobnet.com/job/453294/software-engineer-intern-chandler-az-summer-2019/)  |
 | [General Electric](https://neuvoo.com/view/?id=pruh2dhg6d&source=gfj&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | FL, IL, MO, NV, PA, TX | Present |  |
 | [Granular](https://angel.co/granular-2/jobs/411977-software-engineering-internship-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IA | Present | |
-| [Gusto](https://www.indeed.com/viewjob?jk=a330c1964f018a5a)  | CA | Present | |
+| [Gusto](https://boards.greenhouse.io/gusto/jobs/483342)  | CA | Present | |
+| [Google](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineering-intern-bs-summer-google-building-c-747-6th-st-s-kirkland-4235670072&)  | Multiple | Present | |
+| [Google Engineering Practicum](https://careers.google.com/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2019-76-9th-ave-new-york-ny-10011-usa-4258870559&)  | Multiple | Present | For college freshmen and sophomores.|
+| [Github](https://github.com/about/careers#internships)  | CA | Present | |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
 | [Hulu](https://www.hulu.com/jobs/positions/oduj8fws) | CA, WA | Present | |
@@ -73,10 +79,11 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Knewton](https://www.builtinnyc.com/job/internship/software-engineering-internship-summer-2019/42518)  | NY | Present | |
 | [LinkedIn](https://www.linkedin.com/jobs/view/829001122/)  | Multiple | Present | No freshmen |
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?fl=6252001,4566966)  | Multiple | Present | |
+| [Lyft](https://www.lyft.com/careers/university-recruiting)  | CA, WA, NY, Germany | Present | | 
 | [Managed by Q](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-managed-by-q-827630644/)  | NY | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | Present | |
-| [Ebay](https://jobs.ebayinc.com/job/bellevue/software-engineer-intern/403/9393469) | CA, WA, OR, MA, NY | Present | |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | WA | Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
+| [MongoDB](https://www.mongodb.com/careers/jobs/1306593)  | NY | Present | |
 | [Morgan Stanley](https://www.linkedin.com/jobs/view/2019-technology-summer-analyst-program-new-york-at-morgan-stanley-692136510/)  | NY | Present | |
 | [Motorola](https://www.emprego.pt/en/jobs/show/software-engineering-2019-internship-chicago/28292808900579293750418544589?utm_medium=feed&utm_source=linkedin)  | IL | Present | No seniors |
 | [MuleSoft](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/2/refreshFacet/318c8bb6f553100021d223d9780d30be)  | CA; Canada  | Present |  |
@@ -84,22 +91,28 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [National Instruments](https://www.linkedin.com/jobs/view/intern-co-op-software-engineer-2019-at-national-instruments-811364289/)  | TX | Present | |
 | [NBC](https://www.linkedin.com/jobs/view/r-d-software-engineering-intern-summer-2019-at-nbcuniversal-media-llc-815599611/)  | CA | Present | |
 | [Nextdoor](https://nextdoor.com/jobs/?gh_jid=1258419)  | CA | Present | Must graduate in 2020 |
+| [Nike](https://jobs.nike.com/job/beaverton/digital-undergraduate-intern/824/9277021)  | OR | Present | Expected graduation date of Winter 2019 or Spring 2020. Variety of positions available from Software Engineer to IOS Developer to Full Stack Developer. Reach out to [Melana Hammel '18](mailto:mhammel@alumni.princeton.edu) with any questions. |
 | [Noblis](https://jobs-noblis.icims.com/jobs/6218/2019-technical%2C-paid-summer-internships-%28returning%29/job)  | VA | Present | |
 | [Northrop Grumman](https://neuvoo.com/view/?id=7auiyzipit&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=edd9aadfd9db7ad7c9d7c9d6cad7d9dgbad7f9dc3ee3cdcgfec3dc&splitab=1&action=emailAlert)  | MN | Present | No seniors |
 | [Occipital](https://occipital.com/jobs)  | IL | Present | No official program, but open to internships for any full time engineering role |
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | IL | Present | |
 | [OSIsoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2019_R001322)  | CA, TN, PA, AZ | Present | |
+| [Peloton](https://uncubed.com/jobs/peloton/job/123796-software-engineering-internship-summer-2019)  | NY | Present | |
 | [Plaid](https://plaid.com/careers/#software-engineer-intern)  | CA | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | NY, CA, WA, D.C., Australia, London, Canada | Present | Must graduate in 2020|
+| [Palantir Path](https://www.palantir.com/careers/)  | NY; Washington DC | Present | For sophomores/juniors with limited industry experience |
+| [Palo Alto Networks](https://jobs.jobvite.com/paloaltonetworks/p/interns)  | CA, TX, VA, Netherlands, France | Present ||
 | [Peak6 Investments](https://www.builtinchicago.org/job/internship/technology-experience-women-2019-summer-internship/64218)  | IL | Present | Must be female and graduate in Dec. 2019 or June 2020|
+| [Pinterest](https://careers.pinterest.com/careers/details/software-engineer-intern_san-francisco_1279340)  | CA | Present | |
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
 | [Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Boulder-CO/Intern---Software---Summer-2019_R000645-2?Codes=SM-LinkedIn)  | CO | Present | Juniors preferred |
 | [Pure Storage](https://www.builtinseattle.com/job/internship/2019-software-engineer-intern-bel/3682)  | WA | Present |  |
-| Quora | CA | Present | Available positions: [Data Scientist](https://jobs.lever.co/quora/2274c5e5-79de-47d3-bdf8-7a5bdfda0ebb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic), [Product Designer](https://jobs.lever.co/quora/86333564-3855-4753-ba2f-6358115cb6af)|
+| [Qualtrics](https://boards.greenhouse.io/qualtrics/jobs/755570?gh_src=91c3ce211)  | WA | Present | |
 | [Quantcast](https://jobs.lever.co/quantcast/1927c62b-837b-415e-8a13-32b720e90735)  | CA | Present | Graduation date between Dec. 2019 and June 2020 |
+| Quora | CA | Present | Available positions: [Data Scientist](https://jobs.lever.co/quora/2274c5e5-79de-47d3-bdf8-7a5bdfda0ebb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic), [Product Designer](https://jobs.lever.co/quora/86333564-3855-4753-ba2f-6358115cb6af)|
 | [Raytheon](https://jobs.rayjobs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25258&siteid=5368&AReq=120762BR&gqid=0&codes=3640#jobDetails=1402777_5368)  | MA | Present | |
 | [Red Ventures](https://www.careerbliss.com/jobs/detail/1603639395)  | NC | Present | Must graduate in 2020 |
-| [Reddit](https://boards.greenhouse.io/reddit/jobs/1335564) | CA | Present |  |
+| [Reddit](https://boards.greenhouse.io/reddit/jobs/1335564) | CA | Present | Must graduate between Dec. 2019 and Summer 2020 |
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/1267864?gh_jid=1267864&gh_src=vs7ga51)  | CA | Present |  |
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/996796)  | CA | Present |  |
 | [Roblox](https://corp.roblox.com/jobs/?gh_jid=1290141)  | CA | Present |  |
@@ -108,6 +121,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Bloomington-MN/Software-Engineer-2019-Summer-Intern_IRC73181)  | MN | Present |  |
 | [Shutterfly](https://jobs.jobvite.com/shutterflyinc/job/olDe8fw4)  | CA | Present |  |
 | [Slack](https://slack.com/careers/951251/summer-software-engineering-intern-2019)  | CA | Present |  |
+| [SpaceX](https://boards.greenhouse.io/spacex/jobs/4079311002?gh_jid=4079311002)  | FL, CA, TX, WA, D.C. | Present | |
 | [Starsky Robotics](https://jobs.lever.co/starskyrobotics/636cbd7f-0a33-4072-996d-de28dc6b96ba)  | CA | Present |  |
 | [State Farm](https://statefarm.csod.com/ats/careersite/search.aspx?site=1&c=statefarm)  | IL | Present | For tech-specific: [link1](https://statefarm.csod.com/ats/careersite/JobDetails.aspx?site=1&id=4465) [link2](https://statefarm.csod.com/ats/careersite/JobDetails.aspx?site=1&id=4508) |
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-san-francisco)  | CA | Present | Must graduate in 2020 or 2021.|
@@ -116,7 +130,10 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=266053&src=JB-10146)  | MD | Present |  |
 | [Thumbtack](https://boards.greenhouse.io/thumbtack/jobs/2570)  | CA | Present | Must graduate in 2020 |
 | [Tumblr](https://oath.wd5.myworkdayjobs.com/careers/job/US---New-York-Broadway-770/Tumblr-Engineering-Intern_JR0006522) | NY | Present | |
-| [Twitter Academy](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | CA | Present | For second-year students who are black, Hispanic/Latinx, or Native American.|
+| [Twilio](https://www.twilio.com/jobs)  | CA | Present | Multiple positions, including PM |
+| [Twitch](https://jobs.lever.co/twitch/564f4325-6bff-466e-8b4c-b20fde00ac2c) | CA | Present | Must have completed sophomore year |
+| [Twitter](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | CA | Present | |
+| [Twitter Academy](https://twitteracademy19.splashthat.com/) | CA | Present | For second-year students who are black, Hispanic/Latinx, or Native American.|
 | [Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=4252&source=Direct+Applicant&tags=internshipinfographic)  | NY | Present | [Quantitative Research](https://careers.twosigma.com/careers/Careers?jobId=4357&source=Direct+Applicant&tags=internshipinfographic) position also available.|
 | [Uber](https://www.uber.com/careers/list/41577/)  | CA | Present | |
 | [Under Armour](https://careers.underarmour.com/job/baltimore/rookie-2019-summer-league-internship-technology-and-product-development/7686/9059414)  | MD | Present | No freshmen |
@@ -129,8 +146,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Yelp](https://www.yelp.com/careers/job-openings/3f4cb3c8-4152-48b6-a76a-8226c2907400?description=Software-Engineer-Intern-Summer_College-Engineering-Product_San-Francisco-CA) | CA | Present | |
 | [Yext](https://www.builtinnyc.com/job/internship/2019-software-engineer-summer-intern/42708)  | NY | Present | Graduation date between Dec. 2019 and Aug. 2021 |
 | [Zoox](https://www.ziprecruiter.com/c/Zoox/Job/Software-Engineer-Intern-2019/-in-Foster-City,CA?ojob=7d6e4edb956f1b58b3bfbf56a0a48828&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present | Must be within 1-2 years of graduation |
-
-
+| [Zynga](https://www.zynga.com/careers/positions/internco-op-software-engineer-current-students-summer-2019)  | CA, Toronto | Present | PM position also available. |
 
 ## Applications opening soon
 
@@ -139,12 +155,9 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Amazon Future Engineers](https://www.amazonfutureengineer.com/)  | ? | September 1st-December 1st  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
 | [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | CA, TX (?) | September-December  | |
 | [Facebook University](https://www.facebook.com/careers/students-and-grads/students)  | CA | December 1st-January 15th  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
-| Google Engineering Practicum  | Multiple | Fall 2018 | For college freshmen and sophomores.|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
-| [Lyft](https://www.lyft.com/jobs)  | CA | First week of September | | 
-| [MongoDB](https://www.mongodb.com/careers/departments/college-students)  | NY | September| |
+|[Mozilla](https://careers.mozilla.org/university/#apply) | CA, Toronto, Paris | September-March  | |
 | New York Times  | NY | by mid-Nov. | |
-| [Pinterest](https://careers.pinterest.com/careers/interns-and-new-grads)  | CA | Early September| |
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | December | |
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
 |[Spotify](https://www.spotifyjobs.com/students/) | NY | Late September  | |
@@ -155,16 +168,11 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 |---|---|---|---|
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | CA | ? | |
-| [Electronic Arts](https://www.ea.com/en-ca/careers/students)  | Multiple | ? | |
 | [IBM Extreme Blue](http://www-01.ibm.com/employment/us/extremeblue/apply_us.html)  | TX, NC | ? | |
 | [OpenAI](https://jobs.lever.co/openai/b85c9d18-1baf-4c98-8c2f-893d4fbb3c3f)  | CA | ? | Machine Learning Intern |
 | [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
-| [Palantir Path](https://careers.pinterest.com/careers/interns-and-new-grads)  | NY | ? | A program for sophomores/juniors with limited industry experience|
 | [Pandora](https://pandora.com/careers/universityrecruiting)  | CA | ? | Sign up for job notifications [here](http://jobs.jobvite.com/pandora/jobAlerts)|
 | [Pixar Undergraduate Program](https://www.pixar.com/internships/#internships-main)  | CA | ? | |
-| [SpaceX](https://www.spacex.com/careers/list?field_job_category_tid%5B%5D=966)  | CA | ? | |
 | [Strava](https://boards.greenhouse.io/strava#.WFiiq6IrJBx)  | CA | ? | |
 | [Tesla](https://www.tesla.com/careers/search#/?keyword=intern&department=1)  | CA | ? | |
 | [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | CA | ? | For high-performing freshmen |
-| [Twilio](https://www.twilio.com/jobs)  | CA | ? | |
-| [Zynga](https://www.zynga.com/careers/positions/categories/students-new-grads-interns)  | CA | ? | |
