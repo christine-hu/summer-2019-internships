@@ -97,7 +97,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Occipital](https://occipital.com/jobs)  | IL | Present | No official program, but open to internships for any full time engineering role |
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | IL | Present | |
 | [OSIsoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2019_R001322)  | CA, TN, PA, AZ | Present | |
-| [Peloton](https://uncubed.com/jobs/peloton/job/123796-software-engineering-internship-summer-2019)  | NY | Present | |
+| [Peloton](https://www.onepeloton.com/company/careers/857275)  | NY | Present | |
 | [Plaid](https://plaid.com/careers/#software-engineer-intern)  | CA | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | NY, CA, WA, D.C., Australia, London, Canada | Present | Must graduate in 2020|
 | [Palantir Path](https://www.palantir.com/careers/)  | NY; Washington DC | Present | For sophomores/juniors with limited industry experience |
