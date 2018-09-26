@@ -64,6 +64,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
 | [Hulu](https://www.hulu.com/jobs/positions/oduj8fws) | CA, WA | Present | |
 | [IBM](https://careers.ibm.com/ShowJob/Id/323739/2019%20Software%20Developer%20Internship#CALosAngeles)  | AZ, CA, CO, GA, MA, MN, NC, NY, OH, OR, PA, TX, VT | Present | |
+| [IBM Extreme Blue](http://www-01.ibm.com/employment/us/extremeblue/apply_us.html)  | TX, NC | Present | |
 | [iCIMS](https://careers.icims.com/job/3942/software-engineering-internships-(summer-2019)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | NJ | Present | |
 | [Illumio](https://jobs.smartrecruiters.com/Illumio/743999675308471-data-engineer-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present | Must graduate in June 2020. Data Engineer role |
 | [IMC Trading](https://www.builtinchicago.org/job/internship/software-engineer-intern-summer-2019/63491?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IL | Present | |
@@ -172,7 +173,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 |---|---|---|---|
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | CA | ? | |
-| [IBM Extreme Blue](http://www-01.ibm.com/employment/us/extremeblue/apply_us.html)  | TX, NC | ? | |
 | [OpenAI](https://jobs.lever.co/openai/b85c9d18-1baf-4c98-8c2f-893d4fbb3c3f)  | CA | ? | Machine Learning Intern |
 | [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
 | [Pandora](https://pandora.com/careers/universityrecruiting)  | CA | ? | Sign up for job notifications [here](http://jobs.jobvite.com/pandora/jobAlerts)|
