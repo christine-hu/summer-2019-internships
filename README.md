@@ -40,6 +40,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Constant Contact](https://boards.greenhouse.io/endurance/jobs/910708)  | MA | Present | Security research position |
 | [Convoy](https://jobs.lever.co/convoy/86c7bb6e-c592-43bf-87c8-a1eec90af2f3/apply?lever-source=Glassdoor)  | WA | Present | Must graduate in 2020 |
 | [Couple](https://couple.me/jobs)  | CA | Present | |
+| [Cox Automotive](https://www.recruit.net/job/software-engineer_north-hills_jobs/E637D0B356259D4E)  |  NY | Present | |
 | [Dell](https://jobs.dell.com/job/-/-/375/9080010)  | MA | Present | |
 | [DE Shaw](https://www.deshaw.com/careers#internships)  | NY | Present | Many positions available: quant research, swe, etc. |
 | [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | PA | Present | Must graduate by June 2020 |
