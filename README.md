@@ -125,6 +125,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Shutterfly](https://jobs.jobvite.com/shutterflyinc/job/olDe8fw4)  | CA | Present |  |
 | [Slack](https://slack.com/careers/951251/summer-software-engineering-intern-2019)  | CA | Present |  |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/4079311002?gh_jid=4079311002)  | FL, CA, TX, WA, D.C. | Present | |
+|[Spotify](https://www.spotifyjobs.com/students/) | NY, MA | Present  | |
 | [Starsky Robotics](https://jobs.lever.co/starskyrobotics/636cbd7f-0a33-4072-996d-de28dc6b96ba)  | CA | Present |  |
 | [State Farm](https://statefarm.csod.com/ats/careersite/search.aspx?site=1&c=statefarm)  | IL | Present | For tech-specific: [link1](https://statefarm.csod.com/ats/careersite/JobDetails.aspx?site=1&id=4465) [link2](https://statefarm.csod.com/ats/careersite/JobDetails.aspx?site=1&id=4508) |
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-san-francisco)  | CA | Present | Must graduate in 2020 or 2021.|
@@ -164,7 +165,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | New York Times  | NY | by mid-Nov. | |
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | December | |
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
-|[Spotify](https://www.spotifyjobs.com/students/) | NY | Late September  | |
 
 ## Unknown application release date 
 
