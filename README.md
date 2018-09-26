@@ -133,6 +133,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-san-francisco)  | CA | Present | Must graduate in 2020 or 2021.|
 | [Synopsys](https://www.linkedin.com/jobs/view/755847760/)  | OR | Present | Combines CS with EE |
 | [Target](https://jobs.target.com/job/-/-/1118/8984961?src=JB-10182)  | MN | Present | Juniors only |
+| [Tesla](https://www.tesla.com/careers/search#/?keyword=intern&department=1)  | CA | Present | |
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=266053&src=JB-10146)  | MD | Present |  |
 | [Thumbtack](https://boards.greenhouse.io/thumbtack/jobs/2570)  | CA | Present | Must graduate in 2020 |
 | [Tumblr](https://oath.wd5.myworkdayjobs.com/careers/job/US---New-York-Broadway-770/Tumblr-Engineering-Intern_JR0006522) | NY | Present | |
@@ -179,5 +180,4 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Pandora](https://pandora.com/careers/universityrecruiting)  | CA | ? | Sign up for job notifications [here](http://jobs.jobvite.com/pandora/jobAlerts)|
 | [Pixar Undergraduate Program](https://www.pixar.com/internships/#internships-main)  | CA | ? | |
 | [Strava](https://boards.greenhouse.io/strava#.WFiiq6IrJBx)  | CA | ? | |
-| [Tesla](https://www.tesla.com/careers/search#/?keyword=intern&department=1)  | CA | ? | |
 | [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | CA | ? | For high-performing freshmen |
