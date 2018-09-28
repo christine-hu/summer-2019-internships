@@ -18,6 +18,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [AllianceBernstein](https://www.linkedin.com/jobs/view/software-development-summer-internship-technology-operations-program-at-alliancebernstein-795432210/)  | NY| Present | Graduation date in Dec. 2019 or May/June 2020. |
 | [Altera](https://www.ziprecruiter.com/c/Altera/Job/Undergraduate-Intern-2019-Software-Engineering/-in-Santa-Clara,CA?ojob=2051ed1e1aa182542a76afdc45f164f5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present |  |
 | [Amazon](https://www.amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states)  | WA,  TX, CA, MA, CO, MI, VA, NY, WI, MN, AZ, OR | Present | Juniors and above only |
+| [Amazon Future Engineers](https://www.amazon.jobs/en/business_categories/university-recruiting)  | ? | Present  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
 | [American Express](https://jobs.americanexpress.com/jobs/18012247?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | AZ, FL, NY | Present | Graduation date between December 2019 and June 2021 |
 | [Appian](https://boards.greenhouse.io/appian/jobs/1284024)  | VA | Present | | |
 | [Astranis](https://jobs.lever.co/astranis/?team=Internships)  | CA | Present | Fall 18, Spring 19, Summer 19. Software, but also Electrical, Aerospace, and Mechanical too! |
@@ -160,7 +161,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 
 | Name | Location | Open Date/Period | Notes  | 
 |---|---|---|---|
-| [Amazon Future Engineers](https://www.amazonfutureengineer.com/)  | ? | September 1st-December 1st  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
 | [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | CA, TX (?) | September-December  | |
 | [Facebook University](https://www.facebook.com/careers/students-and-grads/students)  | CA | December 1st-January 15th  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
