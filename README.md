@@ -64,6 +64,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Github](https://github.com/about/careers#internships)  | CA | Present | |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
+| [Hudl](https://www.builtinboston.com/job/internship/software-development-internship-co-op-summer-2019/17397)  | MA | Present | |
 | [Hudson River Trading](https://www.themuse.com/jobs/hudsonrivertrading/software-engineering-internship-summer-2019)  | NY | Present | Must graduate in 2020 |
 | [Hulu](https://www.hulu.com/jobs/positions/oduj8fws) | CA, WA | Present | |
 | [IBM](https://careers.ibm.com/ShowJob/Id/323739/2019%20Software%20Developer%20Internship#CALosAngeles)  | AZ, CA, CO, GA, MA, MN, NC, NY, OH, OR, PA, TX, VT | Present | |
@@ -109,6 +110,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Palantir](https://www.palantir.com/careers/)  | NY, CA, WA, D.C., Australia, London, Canada | Present | Must graduate in 2020|
 | [Palantir Path](https://www.palantir.com/careers/)  | NY; Washington DC | Present | For sophomores/juniors with limited industry experience |
 | [Palo Alto Networks](https://jobs.jobvite.com/paloaltonetworks/p/interns)  | CA, TX, VA, Netherlands, France | Present ||
+| [PayPal](https://www.linkedin.com/jobs/view/software-engineer-intern-at-paypal-832483824/)  | NY | Present ||
 | [Peak6 Investments](https://www.builtinchicago.org/job/internship/technology-experience-women-2019-summer-internship/64218)  | IL | Present | Must be female and graduate in Dec. 2019 or June 2020|
 | [Pinterest](https://careers.pinterest.com/careers/details/software-engineer-intern_san-francisco_1279340)  | CA | Present | |
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
@@ -160,7 +162,8 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Yahoo!](https://oath.wd5.myworkdayjobs.com/careers/job/US---Sunnyvale/Software-Engineering-Intern_JR0006043) | CA | Present | |
 | [Yelp](https://www.yelp.com/careers/job-openings/3f4cb3c8-4152-48b6-a76a-8226c2907400?description=Software-Engineer-Intern-Summer_College-Engineering-Product_San-Francisco-CA) | CA | Present | |
 | [Yext](https://www.builtinnyc.com/job/internship/2019-software-engineer-summer-intern/42708)  | NY | Present | Graduation date between Dec. 2019 and Aug. 2021 |
-| [Zoox](https://www.ziprecruiter.com/c/Zoox/Job/Software-Engineer-Intern-2019/-in-Foster-City,CA?ojob=7d6e4edb956f1b58b3bfbf56a0a48828&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present | Must be within 1-2 years of graduation |
+| [Zest Finance](https://www.themuse.com/jobs/zestfinance/software-engineer-internship-summer-2019)  | CA | Present |  |
+| [Zoox](https://www.ziprecruiter.com/c/Zoox/Job/Software-Engineer-Intern-2019/-in-Foster-City,CA?ojob=7d6e4edb956f1b58b3bfbf56a0a48828)  | CA | Present | Must be within 1-2 years of graduation |
 | [Zynga](https://www.zynga.com/careers/positions/internco-op-software-engineer-current-students-summer-2019)  | CA, Toronto | Present | PM position also available. |
 
 ## Applications opening soon
