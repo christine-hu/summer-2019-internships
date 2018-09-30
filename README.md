@@ -50,6 +50,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [DRW](https://www.builtinchicago.org/job/internship/software-developer-intern/63760)  | IL | Present | Must graduate between Dec. 2019 and June 2021. |
 | [Ebay](https://jobs.ebayinc.com/job/bellevue/software-engineer-intern/403/9393469) | CA, WA, OR, MA, NY | Present | |
 | [Electronic Arts](https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152597)  | FL | Present | Juniors only |
+| [Enigma](https://www.linkedin.com/jobs/view/881212110/)  | NY | Present | 2019/2020 graduates |
 | [Etsy](https://jobs.lever.co/etsy/20631f36-1825-4443-9f2a-51d5cfa5e4bb/apply?lever-source=themuse)  | NY | Present |  |
 | Facebook | CA, WA, CO | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
@@ -63,6 +64,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Github](https://github.com/about/careers#internships)  | CA | Present | |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
+| [Hudson River Trading](https://www.themuse.com/jobs/hudsonrivertrading/software-engineering-internship-summer-2019)  | NY | Present | Must graduate in 2020 |
 | [Hulu](https://www.hulu.com/jobs/positions/oduj8fws) | CA, WA | Present | |
 | [IBM](https://careers.ibm.com/ShowJob/Id/323739/2019%20Software%20Developer%20Internship#CALosAngeles)  | AZ, CA, CO, GA, MA, MN, NC, NY, OH, OR, PA, TX, VT | Present | |
 | [IBM Extreme Blue](http://www-01.ibm.com/employment/us/extremeblue/apply_us.html)  | TX, NC | Present | |
@@ -149,6 +151,9 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [UPS](https://www.jobs-ups.com/search-jobs/summer%20technology%20intern/1187/1)  | KY, MD, GA, NJ | Present |  |
 | [U.S. Bank](https://usbank.taleo.net/careersection/10000/jobdetail.ftl?job=180030905&iniurl.src=DM-10101&tz=GMT-04%3A00)  | MN | Present | |
 | [Valassis](https://www.valassisdigital.com/careers/?gnk=job&gni=8a78859e64f8dfac0165395973ca3346&gns=LinkedIn+Limited)  | NC | Present | Keywords: Big Data, High Scalability Engineering, Web Applications |
+| [Vetcove](https://angel.co/vetcove/jobs/347448-software-engineering-intern-summer)  | NY | Present | Juniors Only |
+| [Walmart](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-walmart-labs-881283402/)  | CA | Present | |
+| [WillowTree](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2019-durham-at-willowtree-inc-882204529/)  | NC | Present | 2020 or 2021 graduates |
 | [Wish](https://jobs.lever.co/wish/edc42df8-fc30-47a9-ab93-5f0a185c4b0c)  | CA | Present | |
 | [Wolverine Trading](https://chk.tbe.taleo.net/chk01/ats/careers/requisition.jsp?org=WOLVE&cws=1&rid=280)  | IL | Present | |
 | [Xylem](https://www.xylem.com/en-us/careers/career-opportunities?page=1&pagesize=24&keyword=intern)  | OH | Present | Electrical Engineer Intern |
