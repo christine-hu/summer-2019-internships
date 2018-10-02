@@ -88,6 +88,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [LinkedIn](https://www.linkedin.com/jobs/view/829001122/)  | Multiple | Present | No freshmen |
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?fl=6252001,4566966)  | Multiple | Present | |
 | [Lyft](https://www.lyft.com/careers/university-recruiting)  | CA, WA, NY, Germany | Present | | 
+| [MailChimp](https://mailchimp.com/jobs/)  | Atlanta | Present | | 
 | [Managed by Q](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-managed-by-q-827630644/)  | NY | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | Present | |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | WA | Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
