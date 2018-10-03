@@ -155,6 +155,8 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [UPS](https://www.jobs-ups.com/search-jobs/summer%20technology%20intern/1187/1)  | KY, MD, GA, NJ | Present |  |
 | [U.S. Bank](https://usbank.taleo.net/careersection/10000/jobdetail.ftl?job=180030905&iniurl.src=DM-10101&tz=GMT-04%3A00)  | MN | Present | |
 | [Valassis](https://www.valassisdigital.com/careers/?gnk=job&gni=8a78859e64f8dfac0165395973ca3346&gns=LinkedIn+Limited)  | NC | Present | Keywords: Big Data, High Scalability Engineering, Web Applications |
+| [Visa](https://jobs.smartrecruiters.com/Visa/743999676973325-software-engineer-intern-bachelor-degree-multiple-locations)  | Multiple | Present |  |
+| [Verizon](https://www.verizon.com/about/work/jobs/3195353-verizon-connect-software-engineering-internship-opportunities)  | Multiple | Present | Graduating between December 2019 and June 2021 |
 | [Vetcove](https://angel.co/vetcove/jobs/347448-software-engineering-intern-summer)  | NY | Present | Juniors Only |
 | [Walmart](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-walmart-labs-881283402/)  | CA | Present | |
 | [WillowTree](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2019-durham-at-willowtree-inc-882204529/)  | NC | Present | 2020 or 2021 graduates |
