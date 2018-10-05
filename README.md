@@ -86,6 +86,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Kayak](https://jobs.jobvite.com/kayak/job/ooha8fwH)  | MA | Present | Data engineering position. SWE positions available in Germany and Lithuania|
 | [Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/15827)  | CA | Present | |
 | [Knewton](https://www.builtinnyc.com/job/internship/software-engineering-internship-summer-2019/42518)  | NY | Present | |
+| [Lime](https://jobs.lever.co/limebike/f83ba173-769d-4992-88dc-ff828c87131d)  | CA | Present | |
 | [LinkedIn](https://www.linkedin.com/jobs/view/829001122/)  | Multiple | Present | No freshmen |
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?fl=6252001,4566966)  | Multiple | Present | |
 | [Lyft](https://www.lyft.com/careers/university-recruiting)  | CA, WA, NY, Germany | Present | | 
