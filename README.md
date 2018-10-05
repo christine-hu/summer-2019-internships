@@ -153,6 +153,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=4252&source=Direct+Applicant&tags=internshipinfographic)  | NY | Present | [Quantitative Research](https://careers.twosigma.com/careers/Careers?jobId=4357&source=Direct+Applicant&tags=internshipinfographic) position also available.|
 | [Uber](https://www.uber.com/careers/list/41577/)  | CA | Present | |
 | [Under Armour](https://careers.underarmour.com/job/baltimore/rookie-2019-summer-league-internship-technology-and-product-development/7686/9059414)  | MD | Present | No freshmen |
+| [Unity](https://www.indeed.com/viewjob?jk=672d0e87fc7dd42a&q)  | CA | Present | Juniors/Seniors |
 | [UPS](https://www.jobs-ups.com/search-jobs/summer%20technology%20intern/1187/1)  | KY, MD, GA, NJ | Present |  |
 | [U.S. Bank](https://usbank.taleo.net/careersection/10000/jobdetail.ftl?job=180030905&iniurl.src=DM-10101&tz=GMT-04%3A00)  | MN | Present | |
 | [Valassis](https://www.valassisdigital.com/careers/?gnk=job&gni=8a78859e64f8dfac0165395973ca3346&gns=LinkedIn+Limited)  | NC | Present | Keywords: Big Data, High Scalability Engineering, Web Applications |
