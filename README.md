@@ -163,7 +163,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Verizon](https://www.verizon.com/about/work/jobs/3195353-verizon-connect-software-engineering-internship-opportunities)  | Multiple | Present | Graduating between December 2019 and June 2021 |
 | [Vetcove](https://angel.co/vetcove/jobs/347448-software-engineering-intern-summer)  | NY | Present | Juniors Only |
 | [Walmart](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-walmart-labs-881283402/)  | CA | Present | |
-| [WillowTree](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2019-durham-at-willowtree-inc-882204529/)  | NC | Present | 2020 or 2021 graduates |
+| [WillowTree](https://willowtreeapps.com/careers#jobs)  | NC | Present | 2020 or 2021 graduates |
 | [Wish](https://jobs.lever.co/wish/edc42df8-fc30-47a9-ab93-5f0a185c4b0c)  | CA | Present | |
 | [Wolverine Trading](https://chk.tbe.taleo.net/chk01/ats/careers/requisition.jsp?org=WOLVE&cws=1&rid=280)  | IL | Present | |
 | [Xylem](https://www.xylem.com/en-us/careers/career-opportunities?page=1&pagesize=24&keyword=intern)  | OH | Present | Electrical Engineer Intern |
