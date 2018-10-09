@@ -163,7 +163,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Verizon](https://www.verizon.com/about/work/jobs/3195353-verizon-connect-software-engineering-internship-opportunities)  | Multiple | Present | Graduating between December 2019 and June 2021 |
 | [Vetcove](https://angel.co/vetcove/jobs/347448-software-engineering-intern-summer)  | NY | Present | Juniors Only |
 | [Walmart](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-walmart-labs-881283402/)  | CA | Present | |
-| [WillowTree](https://www.linkedin.com/jobs/view/software-engineer-intern-summer-2019-durham-at-willowtree-inc-882204529/)  | NC | Present | 2020 or 2021 graduates |
+| [WillowTree](https://willowtreeapps.com/careers#jobs)  | NC | Present | 2020 or 2021 graduates |
 | [Wish](https://jobs.lever.co/wish/edc42df8-fc30-47a9-ab93-5f0a185c4b0c)  | CA | Present | |
 | [Wolverine Trading](https://chk.tbe.taleo.net/chk01/ats/careers/requisition.jsp?org=WOLVE&cws=1&rid=280)  | IL | Present | |
 | [Xylem](https://www.xylem.com/en-us/careers/career-opportunities?page=1&pagesize=24&keyword=intern)  | OH | Present | Electrical Engineer Intern |
@@ -171,7 +171,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Yelp](https://www.yelp.com/careers/job-openings/3f4cb3c8-4152-48b6-a76a-8226c2907400?description=Software-Engineer-Intern-Summer_College-Engineering-Product_San-Francisco-CA) | CA | Present | |
 | [Yext](https://www.builtinnyc.com/job/internship/2019-software-engineer-summer-intern/42708)  | NY | Present | Graduation date between Dec. 2019 and Aug. 2021 |
 | [Zest Finance](https://www.themuse.com/jobs/zestfinance/software-engineer-internship-summer-2019)  | CA | Present |  |
-| [Zoox](https://www.ziprecruiter.com/c/Zoox/Job/Software-Engineer-Intern-2019/-in-Foster-City,CA?ojob=7d6e4edb956f1b58b3bfbf56a0a48828)  | CA | Present | Must be within 1-2 years of graduation |
+| [Zoox](https://jobs.lever.co/zoox/508e1c93-c04c-4f17-85be-676d9260fcfc)  | CA | Present | Must be within 1-2 years of graduation |
 | [Zynga](https://www.zynga.com/careers/positions/internco-op-software-engineer-current-students-summer-2019)  | CA, Toronto | Present | PM position also available. |
 
 ## Applications opening soon
