@@ -113,7 +113,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Peloton](https://www.onepeloton.com/company/careers/857275)  | NY | Present | |
 | [Plaid](https://plaid.com/careers/#software-engineer-intern)  | CA | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | NY, CA, WA, D.C., Australia, London, Canada | Present | Must graduate in 2020|
-| [Palantir Path](https://www.palantir.com/careers/)  | NY; Washington DC | Present | For sophomores/juniors with limited industry experience |
 | [Palo Alto Networks](https://jobs.jobvite.com/paloaltonetworks/p/interns)  | CA, TX, VA, Netherlands, France | Present ||
 | [PayPal](https://www.linkedin.com/jobs/view/software-engineer-intern-at-paypal-832483824/)  | NY | Present ||
 | [Peak6 Investments](https://www.builtinchicago.org/job/internship/technology-experience-women-2019-summer-internship/64218)  | IL | Present | Must be female and graduate in Dec. 2019 or June 2020|
