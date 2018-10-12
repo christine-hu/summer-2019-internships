@@ -117,6 +117,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Plaid](https://plaid.com/careers/#software-engineer-intern)  | CA | Present | |
 | [Palantir](https://www.palantir.com/careers/)  | NY, CA, WA, D.C., Australia, London, Canada | Present | Must graduate in 2020|
 | [Palo Alto Networks](https://jobs.jobvite.com/paloaltonetworks/p/interns)  | CA, TX, VA, Netherlands, France | Present ||
+| [Pandora](http://jobs.jobvite.com/pandora/job/og0C8fwK)  | CA | Present | 2019/2020 grads only |
 | [PayPal](https://www.linkedin.com/jobs/view/software-engineer-intern-at-paypal-832483824/)  | NY | Present ||
 | [Peak6 Investments](https://www.builtinchicago.org/job/internship/technology-experience-women-2019-summer-internship/64218)  | IL | Present | Must be female and graduate in Dec. 2019 or June 2020|
 | [Pinterest](https://careers.pinterest.com/careers/details/software-engineer-intern_san-francisco_1279340)  | CA | Present | |
@@ -194,6 +195,5 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | CA | ? | |
 | [OpenAI](https://jobs.lever.co/openai/b85c9d18-1baf-4c98-8c2f-893d4fbb3c3f)  | CA | ? | Machine Learning Intern |
 | [Outreachy](https://www.outreachy.org/)  | Remote | ? | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
-| [Pandora](https://pandora.com/careers/universityrecruiting)  | CA | ? | Sign up for job notifications [here](http://jobs.jobvite.com/pandora/jobAlerts)|
 | [Pixar Undergraduate Program](https://www.pixar.com/internships/#internships-main)  | CA | ? | |
 | [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | CA | ? | For high-performing freshmen |
