@@ -68,6 +68,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Github](https://github.com/about/careers#internships)  | CA | Present | |
 | [Groupon](https://jobs.groupon.com/jobs/R18107?source=LI_Job_Postings)  | IL, WA | Present | |
 | [HBO](https://careers.warnermediagroup.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&noback=0&partnerid=391&siteid=36&jobid=818472#jobDetails=818472_36) | WA | Present | |
+| [HCSS](hhttps://boards.greenhouse.io/hcss/jobs/1389685) | TX | Present | |
 | [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
 | [Hudl](https://www.builtinboston.com/job/internship/software-development-internship-co-op-summer-2019/17397)  | MA | Present | |
@@ -98,6 +99,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Lyft](https://www.lyft.com/careers/university-recruiting)  | CA, WA, NY, Germany | Present | | 
 | [MailChimp](https://mailchimp.com/jobs/)  | Atlanta | Present | | 
 | [Managed by Q](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-managed-by-q-827630644/)  | NY | Present | |
+| [MassMutual](https://www.massmutual.com/planning/videos/it-track)  | MA | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | Present | |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | WA | Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
 | [MongoDB](https://www.mongodb.com/careers/jobs/1306593)  | NY | Present | |
