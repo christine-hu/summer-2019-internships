@@ -105,6 +105,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [MongoDB](https://www.mongodb.com/careers/jobs/1306593)  | NY | Present | |
 | [Morgan Stanley](https://www.linkedin.com/jobs/view/2019-technology-summer-analyst-program-new-york-at-morgan-stanley-692136510/)  | NY | Present | |
 | [Motorola](https://www.emprego.pt/en/jobs/show/software-engineering-2019-internship-chicago/28292808900579293750418544589?utm_medium=feed&utm_source=linkedin)  | IL | Present | No seniors |
+|[Mozilla](https://careers.mozilla.org/listings/?position_type=Intern) | CA, Toronto, Paris | Present | |
 | [MuleSoft](https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/2/refreshFacet/318c8bb6f553100021d223d9780d30be)  | CA; Canada  | Present |  |
 | [Narrative Science](https://www.startwire.com/express_apply_jobs/NDE2OF9lNzU3MTExMmUzMjlmNTg5NDYwNDg2NWIzZTgwYzZiY19sdXVhX2k=?source=adzuna_l2_HRCommunityAdmin)  | IL | Present | |
 | [National Instruments](https://www.linkedin.com/jobs/view/intern-co-op-software-engineer-2019-at-national-instruments-811364289/)  | TX | Present | |
@@ -187,7 +188,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Name | Location | Open Date/Period | Notes  | 
 |---|---|---|---|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
-|[Mozilla](https://careers.mozilla.org/listings/?position_type=Intern) | CA, Toronto, Paris | September-March  | |
 | New York Times  | NY | by mid-Nov. | |
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | December | |
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
