@@ -80,6 +80,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Illumio](https://jobs.smartrecruiters.com/Illumio/743999675308471-data-engineer-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present | Must graduate in June 2020. Data Engineer role |
 | [IMC Trading](https://www.builtinchicago.org/job/internship/software-engineer-intern-summer-2019/63491?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IL | Present | |
 | [Improbable](https://jobs.lever.co/improbable/6070a10e-ef95-4e83-b969-45ace9b5ac8b)  | London | Present | |
+| [Indeed](https://indeed.avature.net/SWEintern/)  | Many | Present | |
 | [Intel](https://jobs.intel.com/ShowJob/Id/1678929/Undergraduate-Intern-2019-Software-Engineering/)  | CA | Present | |
 | [InterSystems](https://www.indeed.com/viewjob?jk=b0b085b982e183e3)  | MA | Present | |
 | [IXL Learning](https://www.ixl.com/company/jobs/internship)  | CA | Present | |
