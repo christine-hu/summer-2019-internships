@@ -56,7 +56,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Enigma](https://www.linkedin.com/jobs/view/881212110/)  | NY | Present | 2019/2020 graduates |
 | [Etsy](https://jobs.lever.co/etsy/20631f36-1825-4443-9f2a-51d5cfa5e4bb/apply?lever-source=themuse)  | NY | Present |  |
 | Facebook | CA, WA, CO | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
-| [Fidelity](https://jobs.fidelity.com/ShowJob/Id/341594/Summer-2019-Technical-Internship-Program/)  | NC, RI, NH, TX | Present |  |
+| [Fidelity](https://jobs.fidelity.com/ShowJob/Id/341594/Summer-2019-Technical-Internship-Program/)  | NC, RI, NH, TX | Present | Software Engineer, Systems Analyst, Data Analyst, and Systems Engineer available |
 | [Facebook University](https://www.facebook.com/careers/program/FBUEngineering/)  | CA | Until December 3  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
 | [Five Rings Capital](http://jobs.jobvite.com/fiverings/job/ouw77fwY)  | NY | Present | |
