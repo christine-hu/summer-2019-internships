@@ -144,6 +144,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/1267864?gh_jid=1267864&gh_src=vs7ga51)  | CA | Present |  |
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/996796)  | CA | Present |  |
 | [Roblox](https://corp.roblox.com/jobs/?gh_jid=1290141)  | CA | Present |  |
+| [Sabre](https://jobs.sabre.com/job/Southlake-Software-Developer-2019-Summer-Intern-TX-76092/511743500/?feedId=219200)  | TX | Present |  |
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)  | CA, NY, VA, FL, WA, GA, IN | Present |  |
 | [SAS Institute](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)  | NC | Present | Also has special programs for veterans and minorities | 
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Bloomington-MN/Software-Engineer-2019-Summer-Intern_IRC73181)  | MN | Present |  |
