@@ -15,6 +15,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
 | [Airbnb](https://www.airbnb.com/careers/departments/position/1213896)  | CA | Present | |
 | [Akuna Capital](https://akunacapital.com/careers)  | IL, MA | Present | Graduation date by Spring 2020; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
+| [AllianceBernstein](https://alliancebernstein.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&inp1375=9947&opportunityid=9947)  | NY| Present | Dec 2019/June 2020 Graduation Date|
 | [Allstate](https://jobsearch.allstate.com/ShowJob/Id/1826200/Arity%20%20%20Software%20Engineer%20Intern)  | IL| Present | Rising juniors and seniors |
 | [Altera](https://www.ziprecruiter.com/c/Altera/Job/Undergraduate-Intern-2019-Software-Engineering/-in-Santa-Clara,CA?ojob=2051ed1e1aa182542a76afdc45f164f5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present |  |
 | [Amazon](https://www.amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states)  | WA,  TX, CA, MA, CO, MI, VA, NY, WI, MN, AZ, OR | Present | Juniors and above only |
