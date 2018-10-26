@@ -2,15 +2,15 @@
 
 All positions are software engineering roles, unless otherwise specified in the Notes column. Similarly, all positions are open to anyone enrolled in a Bachelor's degree program, unless specific graduation years are mentioned in the Notes column.
 
-To contribute: 
-1. Fork repository 
+To contribute:
+1. Fork repository
 2. Edit README.md ([Markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md))
 4. Open a pull request!
 
 Two-letter locations indicate states in the U.S.; countries other than the U.S. are spelled out. (Ex: CA = California, not Canada)
 
 ## Currently Open Applications
-| Name | Location | Application Period | Notes  | 
+| Name | Location | Application Period | Notes  |
 |---|---|---|---|
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
 | [Airbnb](https://www.airbnb.com/careers/departments/position/1213896)  | CA | Present | |
@@ -103,8 +103,8 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Lime](https://jobs.lever.co/limebike/f83ba173-769d-4992-88dc-ff828c87131d)  | CA | Present | |
 | [LinkedIn](https://www.linkedin.com/jobs/view/829001122/)  | Multiple | Present | No freshmen |
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?fl=6252001,4566966)  | Multiple | Present | |
-| [Lyft](https://www.lyft.com/careers/university-recruiting)  | CA, WA, NY, Germany | Present | | 
-| [MailChimp](https://mailchimp.com/jobs/)  | Atlanta | Present | | 
+| [Lyft](https://www.lyft.com/careers/university-recruiting)  | CA, WA, NY, Germany | Present | |
+| [MailChimp](https://mailchimp.com/jobs/)  | Atlanta | Present | |
 | [Managed by Q](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-managed-by-q-827630644/)  | NY | Present | |
 | [MassMutual](https://www.massmutual.com/planning/videos/it-track)  | MA | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | Present | |
@@ -149,7 +149,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Roblox](https://corp.roblox.com/jobs/?gh_jid=1290141)  | CA | Present |  |
 | [Sabre](https://jobs.sabre.com/job/Southlake-Software-Developer-2019-Summer-Intern-TX-76092/511743500/?feedId=219200)  | TX | Present |  |
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)  | CA, NY, VA, FL, WA, GA, IN | Present |  |
-| [SAS Institute](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)  | NC | Present | Also has special programs for veterans and minorities | 
+| [SAS Institute](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)  | NC | Present | Also has special programs for veterans and minorities |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Bloomington-MN/Software-Engineer-2019-Summer-Intern_IRC73181)  | MN | Present |  |
 | [Shutterfly](https://jobs.jobvite.com/shutterflyinc/job/olDe8fw4)  | CA | Present |  |
 | [Slack](https://slack.com/careers/951251/summer-software-engineering-intern-2019)  | CA | Present |  |
@@ -162,6 +162,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-san-francisco)  | CA | Present | Must graduate in 2020 or 2021.|
 | [Synopsys](https://www.linkedin.com/jobs/view/755847760/)  | OR | Present | Combines CS with EE |
 | [Target](https://jobs.target.com/job/-/-/1118/8984961?src=JB-10182)  | MN | Present | Juniors only |
+| [Teradata](https://careers.teradata.com/index.gp?method=cappportal.showJob&sysLayoutId=122&opportunityId=202560)  | CA | Present | |
 | [Tesla](https://www.tesla.com/careers/search#/?keyword=intern&department=1)  | CA | Present | |
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=266053&src=JB-10146)  | MD | Present |  |
 | [Thumbtack](https://boards.greenhouse.io/thumbtack/jobs/2570)  | CA | Present | Must graduate in 2020 |
@@ -196,7 +197,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 
 ## Applications opening soon
 
-| Name | Location | Open Date/Period | Notes  | 
+| Name | Location | Open Date/Period | Notes  |
 |---|---|---|---|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
 | New York Times  | NY | by mid-Nov. | |
@@ -205,9 +206,9 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | December | |
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
 
-## Unknown application release date 
+## Unknown application release date
 
-| Name | Location | Application Period | Notes  | 
+| Name | Location | Application Period | Notes  |
 |---|---|---|---|
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | CA | ? | |
