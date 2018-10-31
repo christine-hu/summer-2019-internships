@@ -213,6 +213,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 
 ## Archived (applications closed)
 | Name | Location | Notes  |
+|---|---|---|
 | Github| CA | |
 | Groupon | IL, WA | |
-| Kayak | MA | Present | Data engineering position. SWE positions available in Germany and Lithuania|
+| Kayak | MA | Data engineering position. SWE positions available in Germany and Lithuania|
