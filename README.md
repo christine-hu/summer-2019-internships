@@ -65,7 +65,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Five Rings Capital](http://jobs.jobvite.com/fiverings/job/ouw77fwY)  | NY | Present | |
 | [Garmin](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-07%3A00)  | KS | August 13th-Present  | Also available: [Design Engineer Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UC&tz=GMT-07%3A00), [AZ Location](https://jobs.aviationjobnet.com/job/453294/software-engineer-intern-chandler-az-summer-2019/)  |
 | [General Electric](https://neuvoo.com/view/?id=pruh2dhg6d&source=gfj&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | FL, IL, MO, NV, PA, TX | Present |  |
-| [Github](https://github.com/about/careers#internships)  | CA | Present | |
+| [Github](https://github.com/about/careers#internships)  | CA | Closed | |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst.html)  | NY | Present | For technical roles choose engineering |
 | [Google](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineering-intern-bs-summer-google-building-c-747-6th-st-s-kirkland-4235670072&)  | Multiple | Present | |
 | [Google Engineering Practicum](https://careers.google.com/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2019-76-9th-ave-new-york-ny-10011-usa-4258870559&)  | Multiple | Present | For college freshmen and sophomores.|
