@@ -96,7 +96,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [JP Morgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180068843)  | NY, IL, OH, TX, NJ, DE, NY, TX, CA, FL, DE | Present | Must graduate by June 2020|
 | [Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=856230)  | IL | Present | |
 | [Karat](https://jobs.lever.co/karat/c6666daf-6103-4430-85ac-4a45f5b0acfa)  | WA | Present | |
-| [Kayak](https://jobs.jobvite.com/kayak/job/ooha8fwH)  | MA | Present | Data engineering position. SWE positions available in Germany and Lithuania|
+| [Kayak](https://jobs.jobvite.com/kayak/job/ooha8fwH)  | MA | Closed | Data engineering position. SWE positions available in Germany and Lithuania|
 | [Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/15827)  | CA | Present | |
 | [Knewton](https://www.builtinnyc.com/job/internship/software-engineering-internship-summer-2019/42518)  | NY | Present | |
 | [Leidos](https://careers.leidos.com/jobs/3241160-software-developer-intern?tm_job=TR-659040&tm_event=view&tm_company=2502&bid=326)  | NJ | Present | Juniors and Seniors preferred |
