@@ -151,6 +151,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Shutterfly](https://jobs.jobvite.com/shutterflyinc/job/olDe8fw4)  | CA | Present |  |
 | [Slack](https://slack.com/careers/951251/summer-software-engineering-intern-2019)  | CA | Present |  |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/4079311002?gh_jid=4079311002)  | FL, CA, TX, WA, D.C. | Present | |
+|[Spartez](https://spartez.com/jobs/back-end-developer-internship)  | Poland | Present | Backend |
 |[Spotify](https://www.spotifyjobs.com/students/) | NY, MA | Present  | |
 |[Starbucks](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?job=180008367&lang=en&src=JB-12106) | WA | Present  | Dec 2019/June 2020 graduation date |
 | [Starsky Robotics](https://jobs.lever.co/starskyrobotics/636cbd7f-0a33-4072-996d-de28dc6b96ba)  | CA | Present |  |
