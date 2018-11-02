@@ -99,6 +99,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Leidos](https://careers.leidos.com/jobs/3241160-software-developer-intern?tm_job=TR-659040&tm_event=view&tm_company=2502&bid=326)  | NJ | Present | Juniors and Seniors preferred |
 | [Lime](https://jobs.lever.co/limebike/f83ba173-769d-4992-88dc-ff828c87131d)  | CA | Present | |
 | [LinkedIn](https://www.linkedin.com/jobs/view/829001122/)  | Multiple | Present | No freshmen |
+| [Lob](https://boards.greenhouse.io/lob/jobs/1389194)  | CA | Present | Must graduate in 2019 |
 | [Lockheed Martin](https://www.lockheedmartinjobs.com/search-jobs/intern/694/1?fl=6252001,4566966)  | Multiple | Present | |
 | [Lyft](https://www.lyft.com/careers/university-recruiting)  | CA, WA, NY, Germany | Present | |
 | [MailChimp](https://mailchimp.com/jobs/)  | Atlanta | Present | |
@@ -148,6 +149,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)  | CA, NY, VA, FL, WA, GA, IN | Present |  |
 | [SAS Institute](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)  | NC | Present | Also has special programs for veterans and minorities |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Bloomington-MN/Software-Engineer-2019-Summer-Intern_IRC73181)  | MN | Present |  |
+| [Servicenow](http://jobs.jobvite.com/careers/servicenow/jobs?c=Student%20-%20Internship)  | CA, WA | Present |  |
 | [Shutterfly](https://jobs.jobvite.com/shutterflyinc/job/olDe8fw4)  | CA | Present |  |
 | [Slack](https://slack.com/careers/951251/summer-software-engineering-intern-2019)  | CA | Present |  |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/4079311002?gh_jid=4079311002)  | FL, CA, TX, WA, D.C. | Present | |
@@ -160,6 +162,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Stripe](https://stripe.com/jobs/positions/engineering-intern-san-francisco)  | CA | Present | Must graduate in 2020 or 2021.|
 | [Synopsys](https://www.linkedin.com/jobs/view/755847760/)  | OR | Present | Combines CS with EE |
 | [Target](https://jobs.target.com/job/-/-/1118/8984961?src=JB-10182)  | MN | Present | Juniors only |
+| [Tenable](https://careers.tenable.com/jobs/software-engineering-intern-columbia-maryland-united-states)  | CO | Present |  |
 | [Teradata](https://careers.teradata.com/index.gp?method=cappportal.showJob&sysLayoutId=122&opportunityId=202560)  | CA | Present | |
 | [Tesla](https://www.tesla.com/careers/search#/?keyword=intern&department=1)  | CA | Present | |
 | [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=266053&src=JB-10146)  | MD | Present |  |
