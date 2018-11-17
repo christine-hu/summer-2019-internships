@@ -166,7 +166,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Tenable](https://careers.tenable.com/jobs/software-engineering-intern-columbia-maryland-united-states)  | CO | Present |  |
 | [Teradata](https://careers.teradata.com/index.gp?method=cappportal.showJob&sysLayoutId=122&opportunityId=202560)  | CA | Present | |
 | [Tesla](https://www.tesla.com/careers/search#/?keyword=intern&department=1)  | CA | Present | |
-| [Textron](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=266053&src=JB-10146)  | MD | Present |  |
 | [Thumbtack](https://boards.greenhouse.io/thumbtack/jobs/2570)  | CA | Present | Must graduate in 2020 |
 | [Tumblr](https://oath.wd5.myworkdayjobs.com/careers/job/US---New-York-Broadway-770/Tumblr-Engineering-Intern_JR0006522) | NY | Present | |
 | [Twilio](https://www.twilio.com/jobs)  | CA | Present | Multiple positions, including PM |
@@ -181,7 +180,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [U.S. Bank](https://usbank.taleo.net/careersection/10000/jobdetail.ftl?job=180030905&iniurl.src=DM-10101&tz=GMT-04%3A00)  | MN | Present | |
 | [Valassis](https://www.valassisdigital.com/careers/?gnk=job&gni=8a78859e64f8dfac0165395973ca3346&gns=LinkedIn+Limited)  | NC | Present | Keywords: Big Data, High Scalability Engineering, Web Applications |
 | [Visa](https://jobs.smartrecruiters.com/Visa/743999676973325-software-engineer-intern-bachelor-degree-multiple-locations)  | Multiple | Present |  |
-| [Verizon](https://www.verizon.com/about/work/jobs/3195353-verizon-connect-software-engineering-internship-opportunities)  | Multiple | Present | Graduating between December 2019 and June 2021 |
 | [Vetcove](https://angel.co/vetcove/jobs/347448-software-engineering-intern-summer)  | NY | Present | Juniors Only |
 | [Vimeo](https://boards.greenhouse.io/vimeointernships/jobs/1412298?gh_src=b382173d1)  | NY | Present | 2019 or 2020 grads |
 | [Walmart](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-walmart-labs-881283402/)  | CA | Present | |
@@ -227,3 +225,5 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Altera | CA | |
 | Indeed | Many | |
 | Yext | NY | |
+| Textron | MD | |
+| Verizon | Multiple | |
