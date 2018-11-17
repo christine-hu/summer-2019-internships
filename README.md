@@ -17,11 +17,11 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Akuna Capital](https://akunacapital.com/careers)  | IL, MA | Present | Graduation date by Spring 2020; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
 | [AllianceBernstein](https://alliancebernstein.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&inp1375=9947&opportunityid=9947)  | NY| Present | Dec 2019/June 2020 Graduation Date|
 | [Allstate](https://jobsearch.allstate.com/ShowJob/Id/1826200/Arity%20%20%20Software%20Engineer%20Intern)  | IL| Present | Rising juniors and seniors |
-| [Altera](https://www.ziprecruiter.com/c/Altera/Job/Undergraduate-Intern-2019-Software-Engineering/-in-Santa-Clara,CA?ojob=2051ed1e1aa182542a76afdc45f164f5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present |  |
 | [Amazon](https://www.amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states)  | WA,  TX, CA, MA, CO, MI, VA, NY, WI, MN, AZ, OR | Present | Juniors and above only |
 | [Amazon Future Engineers](https://www.amazon.jobs/en/business_categories/university-recruiting)  | WA | Present  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
 | [American Express](https://jobs.americanexpress.com/jobs/18012247?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | AZ, FL, NY | Present | Graduation date between December 2019 and June 2021 |
 | [Appian](https://boards.greenhouse.io/appian/jobs/1284024)  | VA | Present | | |
+| [Arm](https://careers.peopleclick.com/careerscp/client_arm/external/jobDetails.do?functionName=getJobDetail&jobPostId=38844&localeCode=en-us) | TX | Present | |
 | [Asana](https://asana.com/jobs/university-recruiting)  | CA, NY | Present | | |
 | [Astranis](https://jobs.lever.co/astranis/?team=Internships)  | CA | Present | Fall 18, Spring 19, Summer 19. Software, but also Electrical, Aerospace, and Mechanical too! |
 | [Asurion](https://newasurion.taleo.net/careersection/asurion_campus_intern/jobdetail.ftl?job=PRO00990&lang=en&src=UNS-10042)  | CA | Present | |
@@ -43,6 +43,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Chegg](https://jobs.chegg.com/job/CHEGA00561314/Software-Engineer-Intern)  | CA | Present | |
 | [Chick-fil-a](https://www.themuse.com/jobs/chickfila/2019-springsummer-software-engineering-innovation-intern)  | GA | Present | Current juniors and seniors only |
 | [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?projectSort=schemaField_3_19_3&projectSortDirection=ASC&&projectOffset=0)  | Multiple | Present | Many opportunities, from [SWE](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1231195?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program) to [Data Science](https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1232432?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program)—check main link for all listings |
+| [Clever](https://clever.com/about/jobs/detail?gh_jid=6194&gh_src=qnrd28) | CA | Present | |
 | [Coinbase](https://www.coinbase.com/careers)  | CA | Present | Available positions: [Machine Learning](https://www.coinbase.com/careers/919954), [Consumer Back End](https://www.coinbase.com/careers/919512), [Android dev](https://www.coinbase.com/careers/919969) |
 | [Cockroach Labs](https://angel.co/cockroach-labs/jobs/405680-backend-engineering-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | NY | Present | Backend engineering position |
 | [Constant Contact](https://boards.greenhouse.io/endurance/jobs/910708)  | MA | Present | Security research position |
@@ -84,7 +85,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Illumio](https://jobs.smartrecruiters.com/Illumio/743999675308471-data-engineer-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present | Must graduate in June 2020. Data Engineer role |
 | [IMC Trading](https://www.builtinchicago.org/job/internship/software-engineer-intern-summer-2019/63491?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IL | Present | |
 | [Improbable](https://jobs.lever.co/improbable/6070a10e-ef95-4e83-b969-45ace9b5ac8b)  | London | Present | |
-| [Indeed](https://indeed.avature.net/SWEintern/)  | Many | Present | |
 | [Intel](https://jobs.intel.com/ShowJob/Id/1678929/Undergraduate-Intern-2019-Software-Engineering/)  | CA | Present | |
 | [InterSystems](https://www.indeed.com/viewjob?jk=b0b085b982e183e3)  | MA | Present | |
 | [IXL Learning](https://www.ixl.com/company/jobs/internship)  | CA | Present | |
@@ -139,7 +139,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1966220)  | CA | Present | |
 | [Qualtrics](https://boards.greenhouse.io/qualtrics/jobs/755570?gh_src=91c3ce211)  | WA | Present | |
 | [Quantcast](https://jobs.lever.co/quantcast/1927c62b-837b-415e-8a13-32b720e90735)  | CA | Present | Graduation date between Dec. 2019 and June 2020 |
-| Quora | CA | Present | Available positions: [Data Scientist](https://jobs.lever.co/quora/2274c5e5-79de-47d3-bdf8-7a5bdfda0ebb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic), [Product Designer](https://jobs.lever.co/quora/86333564-3855-4753-ba2f-6358115cb6af)|
+| [Quora](https://www.quora.com/careers/university) | CA | Present | Available positions: [Data Scientist](https://jobs.lever.co/quora/2274c5e5-79de-47d3-bdf8-7a5bdfda0ebb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic), [Product Designer](https://jobs.lever.co/quora/86333564-3855-4753-ba2f-6358115cb6af), [Machine Learning Intern(Only M.S. and Ph.D)](https://www.quora.com/careers/machine_learning_intern_2019), [Software Engineering Intern](https://www.quora.com/careers/software_engineer_intern_2019) |
 | [Raytheon](https://jobs.rayjobs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25258&siteid=5368&AReq=120762BR&gqid=0&codes=3640#jobDetails=1402777_5368)  | MA | Present | |
 | [Red Ventures](https://www.careerbliss.com/jobs/detail/1603639395)  | NC | Present | Must graduate in 2020 |
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/1267864?gh_jid=1267864&gh_src=vs7ga51)  | CA | Present |  |
@@ -189,7 +189,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Xylem](https://www.xylem.com/en-us/careers/career-opportunities?page=1&pagesize=24&keyword=intern)  | OH | Present | Electrical Engineer Intern |
 | [Yahoo!](https://oath.wd5.myworkdayjobs.com/careers/job/US---Sunnyvale/Software-Engineering-Intern_JR0006043) | CA | Present | |
 | [Yelp](https://www.yelp.com/careers/job-openings/3f4cb3c8-4152-48b6-a76a-8226c2907400?description=Software-Engineer-Intern-Summer_College-Engineering-Product_San-Francisco-CA) | CA | Present | |
-| [Yext](https://www.builtinnyc.com/job/internship/2019-software-engineer-summer-intern/42708)  | NY | Present | Graduation date between Dec. 2019 and Aug. 2021 |
 | [Zendesk](https://www.zendesk.com/jobs/internships/) | Multiple locations | Present | Mostly for January - June 2019 |
 | [Zest Finance](https://www.themuse.com/jobs/zestfinance/software-engineer-internship-summer-2019)  | CA | Present |  |
 | [Zoox](https://jobs.lever.co/zoox/508e1c93-c04c-4f17-85be-676d9260fcfc)  | CA | Present | Must be within 1-2 years of graduation |
@@ -223,3 +222,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Niantic | CA | |
 | Shutterfly | CA | |
 | Reddit | CA | |
+| Altera | CA | |
+| Indeed | Many | |
+| Yext | NY | |
