@@ -118,7 +118,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [NBC](https://www.linkedin.com/jobs/view/r-d-software-engineering-intern-summer-2019-at-nbcuniversal-media-llc-815599611/)  | CA | Present | |
 | [Nextdoor](https://nextdoor.com/jobs/?gh_jid=1258419)  | CA | Present | Must graduate in 2020 |
 | [NFL](https://nfl.taleo.net/careersection/nfl_ex/jobdetail.ftl?job=1800005W&lang=en)  | NY | Present ||
-| [Niantic](https://boards.greenhouse.io/niantic/jobs/4097861002)  | CA | Present | Graduate in 2020 or 2021 |
 | [Nike](https://jobs.nike.com/job/beaverton/digital-undergraduate-intern/824/9277021)  | OR | Present | Expected graduation date of Winter 2019 or Spring 2020. Variety of positions available from Software Engineer to IOS Developer to Full Stack Developer. Reach out to [Melana Hammel '18](mailto:mhammel@alumni.princeton.edu) with any questions. |
 | [Noblis](https://jobs-noblis.icims.com/jobs/6218/2019-technical%2C-paid-summer-internships-%28returning%29/job)  | VA | Present | |
 | [Northrop Grumman](https://neuvoo.com/view/?id=7auiyzipit&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=edd9aadfd9db7ad7c9d7c9d6cad7d9dgbad7f9dc3ee3cdcgfec3dc&splitab=1&action=emailAlert)  | MN | Present | No seniors |
@@ -143,7 +142,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Quora | CA | Present | Available positions: [Data Scientist](https://jobs.lever.co/quora/2274c5e5-79de-47d3-bdf8-7a5bdfda0ebb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic), [Product Designer](https://jobs.lever.co/quora/86333564-3855-4753-ba2f-6358115cb6af)|
 | [Raytheon](https://jobs.rayjobs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25258&siteid=5368&AReq=120762BR&gqid=0&codes=3640#jobDetails=1402777_5368)  | MA | Present | |
 | [Red Ventures](https://www.careerbliss.com/jobs/detail/1603639395)  | NC | Present | Must graduate in 2020 |
-| [Reddit](https://boards.greenhouse.io/reddit/jobs/1335564) | CA | Present | Must graduate between Dec. 2019 and Summer 2020 |
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/1267864?gh_jid=1267864&gh_src=vs7ga51)  | CA | Present |  |
 | [Robinhood](https://boards.greenhouse.io/robinhood/jobs/996796)  | CA | Present |  |
 | [Roblox](https://corp.roblox.com/jobs/?gh_jid=1290141)  | CA | Present |  |
@@ -152,7 +150,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [SAS Institute](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)  | NC | Present | Also has special programs for veterans and minorities |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Bloomington-MN/Software-Engineer-2019-Summer-Intern_IRC73181)  | MN | Present |  |
 | [Servicenow](http://jobs.jobvite.com/careers/servicenow/jobs?c=Student%20-%20Internship)  | CA, WA | Present |  |
-| [Shutterfly](https://jobs.jobvite.com/shutterflyinc/job/olDe8fw4)  | CA | Present |  |
 | [Slack](https://slack.com/careers/951251/summer-software-engineering-intern-2019)  | CA | Present |  |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/4079311002?gh_jid=4079311002)  | FL, CA, TX, WA, D.C. | Present | |
 |[Spartez](https://spartez.com/jobs/back-end-developer-internship)  | Poland | Present | Backend |
@@ -223,3 +220,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Github| CA | |
 | Groupon | IL, WA | |
 | Kayak | MA | Data engineering position. SWE positions available in Germany and Lithuania|
+| Niantic | CA | |
+| Shutterfly | CA | |
+| Reddit | CA | |
