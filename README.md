@@ -52,6 +52,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Cox Automotive](https://www.recruit.net/job/software-engineer_north-hills_jobs/E637D0B356259D4E)  |  NY | Present | |
 | [Dell](https://jobs.dell.com/job/-/-/375/9080010)  | MA | Present | |
 | [DE Shaw](https://www.deshaw.com/careers#internships)  | NY | Present | Many positions available: quant research, swe, etc. |
+| [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | Present | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | CA | Present | |
 | [Dow Jones](https://www.linkedin.com/jobs/view/summer-2019-technology-internship-at-dow-jones-870185615/)  | NJ | Present | |
 | [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | PA | Present | Must graduate by June 2020 |
@@ -210,7 +211,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 
 | Name | Location | Application Period | Notes  |
 |---|---|---|---|
-| [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | ? | |
 | [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | CA | ? | For high-performing freshmen |
 
 ## Archived (applications closed)
