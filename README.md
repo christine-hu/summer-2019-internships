@@ -138,7 +138,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Peak6 Investments](https://www.builtinchicago.org/job/internship/technology-experience-women-2019-summer-internship/64218)  | IL | Present | Must be female and graduate in Dec. 2019 or June 2020|
 | [Pinterest](https://careers.pinterest.com/careers/details/software-engineer-intern_san-francisco_1279340)  | CA | Present | |
 | [Platform.sh](https://platform.sh/company/careers/job?gh_jid=4100218002)  | Paris | Present ||
-| [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | Present | Must be expert in C and C++. Available positions: Engine programmer, Gameplay programmer, Tools programmer, Technical Artist|
+| [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/#joblistings)  | CA | Present | |
 | [Plexus](https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Boulder-CO/Intern---Software---Summer-2019_R000645-2?Codes=SM-LinkedIn)  | CO | Present | Juniors preferred |
 | [Pure Storage](https://www.builtinseattle.com/job/internship/2019-software-engineer-intern-bel/3682)  | WA | Present |  |
 | [Qualcomm](https://jobs.qualcomm.com/public/jobDetails.xhtml?requisitionId=1966220)  | CA | Present | |
@@ -204,7 +204,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
 | [Outreachy](https://www.outreachy.org/)  | Remote | February | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
 | [Pixar Undergraduate Program](https://www.pixar.com/internships/#internships-main)  | CA | December | |
-| [Playstation](https://www.playstation.com/en-us/corporate/about/careers/internships/)  | CA | December | |
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
 
 ## Unknown application release date
