@@ -26,7 +26,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Astranis](https://jobs.lever.co/astranis/?team=Internships)  | CA | Present | Fall 18, Spring 19, Summer 19. Software, but also Electrical, Aerospace, and Mechanical too! |
 | [Asurion](https://newasurion.taleo.net/careersection/asurion_campus_intern/jobdetail.ftl?job=PRO00990&lang=en&src=UNS-10042)  | CA | Present | |
 | [Atlassian](https://www.atlassian.com/company/careers/detail/d4c1f25c-114d-4c97-8209-590393040664) | CA | Present
-| [Bank of America Freshman Summer Analyst](https://campus.bankofamerica.com/careers/Global-Technology-Freshman-Summer-Analyst-Program-US.html)  | NC, AZ, NJ, FL, NY | Present | Freshmen only. RTC partner! |
 | [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0n04ox)  | IL | Present | Must graduate in Dec 2019/June 2020 |
 | [BlackRock](https://www.wayup.com/i-Financial-Services-j-Software-Engineering-Summer-Analyst-2019-BlackRock-452850830832505/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Multiple | Present | Juniors only |
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | CA | Present | Must graduate by June 2020 |
@@ -77,7 +76,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [HBO](https://careers.warnermediagroup.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&noback=0&partnerid=391&siteid=36&jobid=818472#jobDetails=818472_36) | WA | Present | |
 | [HCSS](hhttps://boards.greenhouse.io/hcss/jobs/1389685) | TX | Present | |
 | [HDE](https://www.hde.co.jp/en/gip/) | Tokyo | Present | |
-| [Honey](https://boards.greenhouse.io/honey/jobs/1279222#app)  | CA | Present | |
 | [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
 | [Hudl](https://www.builtinboston.com/job/internship/software-development-internship-co-op-summer-2019/17397)  | MA | Present | |
 | [Hudson River Trading](https://www.themuse.com/jobs/hudsonrivertrading/software-engineering-internship-summer-2019)  | NY | Present | Must graduate in 2020 |
@@ -150,7 +148,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Raytheon](https://jobs.rayjobs.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25258&siteid=5368&AReq=120762BR&gqid=0&codes=3640#jobDetails=1402777_5368)  | MA | Present | |
 | [Red Ventures](https://www.careerbliss.com/jobs/detail/1603639395)  | NC | Present | Must graduate in 2020 |
 | [Riot Games](https://www.riotgames.com/en/work-with-us/job/1267864?gh_jid=1267864&gh_src=vs7ga51)  | CA | Present |  |
-| [Robinhood](https://boards.greenhouse.io/robinhood/jobs/996796)  | CA | Present |  |
 | [Roblox](https://corp.roblox.com/jobs/?gh_jid=1290141)  | CA | Present |  |
 | [Sabre](https://jobs.sabre.com/job/Southlake-Software-Developer-2019-Summer-Intern-TX-76092/511743500/?feedId=219200)  | TX | Present |  |
 | [Salesforce](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2019-Intern---Software-Engineer_JR20371)  | CA, NY, VA, FL, WA, GA, IN | Present |  |
@@ -216,14 +213,17 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 ## Archived (applications closed)
 | Name | Location | Notes  |
 |---|---|---|
+| Altera | CA | |
+| Bank of America Freshman Summer Analyst | NC, AZ, NJ, FL, NY | Freshmen Only|
+| Honey | CA | Present | |
 | Github| CA | |
 | Groupon | IL, WA | |
+| Indeed | Many | |
 | Kayak | MA | Data engineering position. SWE positions available in Germany and Lithuania|
 | Niantic | CA | |
-| Shutterfly | CA | |
 | Reddit | CA | |
-| Altera | CA | |
-| Indeed | Many | |
-| Yext | NY | |
+| Robinhood | CA | Present |  |
+| Shutterfly | CA | |
 | Textron | MD | |
 | Verizon | Multiple | |
+| Yext | NY | |
