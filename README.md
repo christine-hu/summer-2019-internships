@@ -119,7 +119,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [NBC](https://www.linkedin.com/jobs/view/r-d-software-engineering-intern-summer-2019-at-nbcuniversal-media-llc-815599611/)  | CA | Present | |
 | [NetApp](https://jobs.netapp.com/go/University-Recruiting-Jobs/3583600/?q=&title=intern-+Software)  | CA, CO, KS, MA, NC, PA  | Present | |
 | [Nextdoor](https://nextdoor.com/jobs/?gh_jid=1258419)  | CA | Present | Must graduate in 2020 |
-| [New York Times](https://nytimes.wd5.myworkdayjobs.com/en-US/Intern-Biz)  | NY | Dec. 21 deadline | |
+| [New York Times](https://nytimes.wd5.myworkdayjobs.com/en-US/Intern-Biz)  | NY | Dec. 21 deadline (1st round), Jan 11/18 for round #2 (data science) | |
 | [NFL](https://nfl.taleo.net/careersection/nfl_ex/jobdetail.ftl?job=1800005W&lang=en)  | NY | Present ||
 | [Nike](https://jobs.nike.com/job/beaverton/digital-undergraduate-intern/824/9277021)  | OR | Present | Expected graduation date of Winter 2019 or Spring 2020. Variety of positions available from Software Engineer to IOS Developer to Full Stack Developer. Reach out to [Melana Hammel '18](mailto:mhammel@alumni.princeton.edu) with any questions. |
 | [Noblis](https://jobs-noblis.icims.com/jobs/6218/2019-technical%2C-paid-summer-internships-%28returning%29/job)  | VA | Present | |
