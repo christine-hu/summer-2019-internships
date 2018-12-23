@@ -203,6 +203,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
 | [Outreachy](https://www.outreachy.org/)  | Remote | February | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
 |[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
+| [GirlScript Summer of Code](http://gssoc.tech/)  | Remote | January | 3-month long open source project with any organization of choice where actual coding begins in March |
 
 ## Unknown application release date
 
