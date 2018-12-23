@@ -58,7 +58,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [DRW](https://www.builtinchicago.org/job/internship/software-developer-intern/63760)  | IL | Present | Must graduate between Dec. 2019 and June 2021. |
 | [Ebay](https://jobs.ebayinc.com/job/bellevue/software-engineer-intern/403/9393469) | CA, WA, OR, MA, NY | Present | |
 | [Electronic Arts](https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1375=153038&opportunityid=153038&inp1541=)  | TX | Present | |
-| [Enigma](https://www.linkedin.com/jobs/view/881212110/)  | NY | Present | 2019/2020 graduates |
 | [Etsy](https://jobs.lever.co/etsy/20631f36-1825-4443-9f2a-51d5cfa5e4bb/apply?lever-source=themuse)  | NY | Present |  |
 | Facebook | CA, WA, CO | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
 | [Facebook University](https://www.facebook.com/careers/program/FBUEngineering/)  | CA | Until December 3  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
@@ -216,6 +215,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Altera | CA | |
 | Bank of America Freshman Summer Analyst | NC, AZ, NJ, FL, NY | Freshmen Only |
 | BookBub | MA | |
+| Enigma | NY | Seniors + juniors |
 | Honey | CA | |
 | Github| CA | |
 | Groupon | IL, WA | |
