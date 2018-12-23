@@ -55,24 +55,14 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [HBO](https://careers.warnermediagroup.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&noback=0&partnerid=391&siteid=36&jobid=818472#jobDetails=818472_36) | WA | Present | |
 | [HCSS](hhttps://boards.greenhouse.io/hcss/jobs/1389685) | TX | Present | |
 | [HDE](https://www.hde.co.jp/en/gip/) | Tokyo | Present | |
-| [Hudl](https://www.builtinboston.com/job/internship/software-development-internship-co-op-summer-2019/17397)  | MA | Present | |
-| [Hudson River Trading](https://www.themuse.com/jobs/hudsonrivertrading/software-engineering-internship-summer-2019)  | NY | Present | Must graduate in 2020 |
 | [Hulu](https://www.hulu.com/jobs/positions/oduj8fws) | CA, WA | Present | |
-| [IBM](https://careers.ibm.com/ShowJob/Id/323739/2019%20Software%20Developer%20Internship#CALosAngeles)  | AZ, CA, CO, GA, MA, MN, NC, NY, OH, OR, PA, TX, VT | Present | |
 | [IBM Extreme Blue](http://www-01.ibm.com/employment/us/extremeblue/apply_us.html)  | TX, NC | Present | |
-| [iCIMS](https://careers.icims.com/job/3942/software-engineering-internships-(summer-2019)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | NJ | Present | |
-| [Illumio](https://jobs.smartrecruiters.com/Illumio/743999675308471-data-engineer-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | CA | Present | Must graduate in June 2020. Data Engineer role |
-| [IMC Trading](https://www.builtinchicago.org/job/internship/software-engineer-intern-summer-2019/63491?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IL | Present | |
 | [Improbable](https://jobs.lever.co/improbable/6070a10e-ef95-4e83-b969-45ace9b5ac8b)  | London | Present | |
-| [Intel](https://jobs.intel.com/ShowJob/Id/1678929/Undergraduate-Intern-2019-Software-Engineering/)  | CA | Present | |
-| [InterSystems](https://www.indeed.com/viewjob?jk=b0b085b982e183e3)  | MA | Present | |
 | [IXL Learning](https://www.ixl.com/company/jobs/internship)  | CA | Present | |
 | [Jane Street](https://www.janestreet.com/join-jane-street/apply/)  | NY | Present | |
 | [Jet.com](https://boards.greenhouse.io/embed/job_app?token=1259425)  | NJ | Present | |
 | [Jetbrains](https://www.jetbrains.com/company/jobs/)  | MA, Russia, Germany | Present | |
-| [Johnson & Johnson](https://jobs.jnj.com/jobs/7066180716/3-2019-Technology-Summer-Internship-College-Hire-?lang=en-us&src=JB-10281)  | NJ, FL, PA, IN, CA, RI, GA | Present | Must graduate by June 2020|
 | [JP Morgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180068843)  | NY, IL, OH, TX, NJ, DE, NY, TX, CA, FL, DE | Present | Must graduate by June 2020|
-| [Jump Trading](https://www.jumptrading.com/apply.html?gh_jid=856230)  | IL | Present | |
 | [Karat](https://jobs.lever.co/karat/c6666daf-6103-4430-85ac-4a45f5b0acfa)  | WA | Present | |
 | [Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/15827)  | CA | Present | |
 | [Knewton](https://www.builtinnyc.com/job/internship/software-engineering-internship-summer-2019/42518)  | NY | Present | |
@@ -207,6 +197,11 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Fidelity| NC, RI, NH, TX | Software Engineer, Systems Analyst, Data Analyst, and Systems Engineer available |
 | Honey | CA | |
 | HubSpot| MA | |
+| Hudl | MA | |
+| Hudson River Trading| NY | |
+| iCIMS | NJ | Present | |
+| Illumio | CA | Present | Must graduate in June 2020. Data Engineer role |
+| IMC Trading | IL | Present | |
 | Garmin | AZ, KS | Design Engineer, Software Engineer positions |
 | General Electric| FL, IL, MO, NV, PA, TX | |
 | Github| CA | |
@@ -214,7 +209,12 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Google Engineering Practicum | Multiple | For college freshmen and sophomores.|
 | Granular | IA | |
 | Groupon | IL, WA | |
+| IBM | AZ, CA, CO, GA, MA, MN, NC, NY, OH, OR, PA, TX, VT | |
 | Indeed | Many | |
+| Intel | CA | |
+| InterSystems | MA | |
+| Johnson & Johnson | NJ, FL, PA, IN, CA, RI, GA | |
+| Jump Trading | IL | |
 | Kayak | MA | Data engineering position. SWE positions available in Germany and Lithuania|
 | LinkedIn  | Multiple | No freshmen |
 | Morgan Stanley | NY | |
