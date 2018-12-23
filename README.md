@@ -43,23 +43,14 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [DE Shaw](https://www.deshaw.com/careers#internships)  | NY | Present | Many positions available: quant research, swe, etc. |
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | Present | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | CA | Present | |
-| [Duolingo](https://hire.withgoogle.com/public/jobs/duolingocom/view/P_AAAAAADAAGeAkDIYY-dBXx)  | PA | Present | Must graduate by June 2020 |
 | [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | NY | Present | Must graduate in/after December 2019. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
-| [DRW](https://www.builtinchicago.org/job/internship/software-developer-intern/63760)  | IL | Present | Must graduate between Dec. 2019 and June 2021. |
 | [Ebay](https://jobs.ebayinc.com/job/bellevue/software-engineer-intern/403/9393469) | CA, WA, OR, MA, NY | Present | |
 | [Electronic Arts](https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1375=153038&opportunityid=153038&inp1541=)  | TX | Present | |
 | [Etsy](https://jobs.lever.co/etsy/20631f36-1825-4443-9f2a-51d5cfa5e4bb/apply?lever-source=themuse)  | NY | Present |  |
 | Facebook | CA, WA, CO | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
-| [Facebook University](https://www.facebook.com/careers/program/FBUEngineering/)  | CA | Until December 3  | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
-| [Fidelity](https://jobs.fidelity.com/ShowJob/Id/341594/Summer-2019-Technical-Internship-Program/)  | NC, RI, NH, TX | Present | Software Engineer, Systems Analyst, Data Analyst, and Systems Engineer available |
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
 | [Five Rings Capital](http://jobs.jobvite.com/fiverings/job/ouw77fwY)  | NY | Present | |
-| [Garmin](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UA&tz=GMT-07%3A00)  | KS | August 13th-Present  | Also available: [Design Engineer Intern](https://garmin.taleo.net/careersection/2012_garmin_cr/jobdetail.ftl?job=18000UC&tz=GMT-07%3A00), [AZ Location](https://jobs.aviationjobnet.com/job/453294/software-engineer-intern-chandler-az-summer-2019/)  |
-| [General Electric](https://neuvoo.com/view/?id=pruh2dhg6d&source=gfj&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | FL, IL, MO, NV, PA, TX | Present |  |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst.html)  | NY | Present | For technical roles choose engineering |
-| [Google](https://careers.google.com/jobs#!t=jo&jid=/google/software-engineering-intern-bs-summer-google-building-c-747-6th-st-s-kirkland-4235670072&)  | Multiple | Present | |
-| [Google Engineering Practicum](https://careers.google.com/jobs#!t=jo&jid=/google/engineering-practicum-intern-summer-2019-76-9th-ave-new-york-ny-10011-usa-4258870559&)  | Multiple | Present | For college freshmen and sophomores.|
-| [Granular](https://angel.co/granular-2/jobs/411977-software-engineering-internship-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | IA | Present | |
 | [Gusto](https://boards.greenhouse.io/gusto/jobs/483342)  | CA | Present | |
 | [HBO](https://careers.warnermediagroup.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&noback=0&partnerid=391&siteid=36&jobid=818472#jobDetails=818472_36) | WA | Present | |
 | [HCSS](hhttps://boards.greenhouse.io/hcss/jobs/1389685) | TX | Present | |
@@ -209,10 +200,19 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Cockroach Labs | NY | Backend engineering position |
 | Constant Contact | MA | Security research position |
 | Dow Jones | NJ | |
+| Duolingo | PA | |
+| DRW | IL | |
 | Enigma | NY | Seniors + juniors |
+| Facebook University| CA | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
+| Fidelity| NC, RI, NH, TX | Software Engineer, Systems Analyst, Data Analyst, and Systems Engineer available |
 | Honey | CA | |
-| HubSpot| MA | Present | |
+| HubSpot| MA | |
+| Garmin | AZ, KS | Design Engineer, Software Engineer positions |
+| General Electric| FL, IL, MO, NV, PA, TX | |
 | Github| CA | |
+| Google | Multiple | |
+| Google Engineering Practicum | Multiple | For college freshmen and sophomores.|
+| Granular | IA | |
 | Groupon | IL, WA | |
 | Indeed | Many | |
 | Kayak | MA | Data engineering position. SWE positions available in Germany and Lithuania|
