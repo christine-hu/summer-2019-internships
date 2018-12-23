@@ -32,7 +32,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | CA, TX (?) | Present  | |
 | [Bloomberg](https://careers.bloomberg.com/job/detail/68834?el=Internships)  | NY | Present | |
 | [Boeing](https://jobs.boeing.com/job/seattle/engineering-internships-paid-summer-2019-multiple-locations/185/9103812)  | Multiple | Present | |
-| [BookBub](https://www.bookbub.com/positions?gh_jid=1289755&gh_src=af34ffd31)  | MA | Present | |
 | [Bracebridge Capital](https://www.linkedin.com/jobs/view/725013688/)  | MA | Present | |
 | [Braze](https://boards.greenhouse.io/embed/job_app?token=840086)  | NY | Present | |
 | [Broadway Technology](https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-intern-summer-2019-at-broadway-technology-llc-815857053/)  | NY | Present | |
@@ -215,8 +214,9 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Name | Location | Notes  |
 |---|---|---|
 | Altera | CA | |
-| Bank of America Freshman Summer Analyst | NC, AZ, NJ, FL, NY | Freshmen Only|
-| Honey | CA | Present | |
+| Bank of America Freshman Summer Analyst | NC, AZ, NJ, FL, NY | Freshmen Only |
+| BookBub | MA | |
+| Honey | CA | |
 | Github| CA | |
 | Groupon | IL, WA | |
 | Indeed | Many | |
