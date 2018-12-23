@@ -15,7 +15,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
 | [Airbnb](https://www.airbnb.com/careers/departments/position/1213896)  | CA | Present | |
 | [Akuna Capital](https://akunacapital.com/careers)  | IL, MA | Present | Graduation date by Spring 2020; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
-| [AllianceBernstein](https://alliancebernstein.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&inp1375=9947&opportunityid=9947)  | NY| Present | Dec 2019/June 2020 Graduation Date|
 | [Allstate](https://jobsearch.allstate.com/ShowJob/Id/1826200/Arity%20%20%20Software%20Engineer%20Intern)  | IL| Present | Rising juniors and seniors |
 | [Amazon](https://www.amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states)  | WA,  TX, CA, MA, CO, MI, VA, NY, WI, MN, AZ, OR | Present | Juniors and above only |
 | [Amazon Future Engineers](https://www.amazon.jobs/en/business_categories/university-recruiting)  | WA | Present  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
@@ -71,7 +70,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [HBO](https://careers.warnermediagroup.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&noback=0&partnerid=391&siteid=36&jobid=818472#jobDetails=818472_36) | WA | Present | |
 | [HCSS](hhttps://boards.greenhouse.io/hcss/jobs/1389685) | TX | Present | |
 | [HDE](https://www.hde.co.jp/en/gip/) | Tokyo | Present | |
-| [HubSpot](https://www.hubspot.com/jobs/apply?gh_jid=807207)  | MA | Present | |
 | [Hudl](https://www.builtinboston.com/job/internship/software-development-internship-co-op-summer-2019/17397)  | MA | Present | |
 | [Hudson River Trading](https://www.themuse.com/jobs/hudsonrivertrading/software-engineering-internship-summer-2019)  | NY | Present | Must graduate in 2020 |
 | [Hulu](https://www.hulu.com/jobs/positions/oduj8fws) | CA, WA | Present | |
@@ -202,14 +200,16 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 ## Archived (applications closed)
 | Name | Location | Notes  |
 |---|---|---|
+| AllianceBernstein | NY | |
 | Altera | CA | |
 | Bank of America Freshman Summer Analyst | NC, AZ, NJ, FL, NY | Freshmen Only |
 | BookBub | MA | |
-| Bracebridge Capital | MA |  |
+| Bracebridge Capital | MA | |
 | Broadway Technology  | NY | |
 | Dow Jones | NJ | |
 | Enigma | NY | Seniors + juniors |
 | Honey | CA | |
+| HubSpot| MA | Present | |
 | Github| CA | |
 | Groupon | IL, WA | |
 | Indeed | Many | |
