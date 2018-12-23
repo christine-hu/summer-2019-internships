@@ -18,30 +18,22 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Allstate](https://jobsearch.allstate.com/ShowJob/Id/1826200/Arity%20%20%20Software%20Engineer%20Intern)  | IL| Present | Rising juniors and seniors |
 | [Amazon](https://www.amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states)  | WA,  TX, CA, MA, CO, MI, VA, NY, WI, MN, AZ, OR | Present | Juniors and above only |
 | [Amazon Future Engineers](https://www.amazon.jobs/en/business_categories/university-recruiting)  | WA | Present  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
-| [American Express](https://jobs.americanexpress.com/jobs/18012247?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | AZ, FL, NY | Present | Graduation date between December 2019 and June 2021 |
 | [Appian](https://boards.greenhouse.io/appian/jobs/1284024)  | VA | Present | | |
 | [Arm](https://careers.peopleclick.com/careerscp/client_arm/external/jobDetails.do?functionName=getJobDetail&jobPostId=38844&localeCode=en-us) | TX | Present | |
 | [Asana](https://asana.com/jobs/university-recruiting)  | CA, NY | Present | | |
 | [Astranis](https://jobs.lever.co/astranis/?team=Internships)  | CA | Present | Fall 18, Spring 19, Summer 19. Software, but also Electrical, Aerospace, and Mechanical too! |
-| [Asurion](https://newasurion.taleo.net/careersection/asurion_campus_intern/jobdetail.ftl?job=PRO00990&lang=en&src=UNS-10042)  | CA | Present | |
 | [Atlassian](https://www.atlassian.com/company/careers/detail/d4c1f25c-114d-4c97-8209-590393040664) | CA | Present
 | [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0n04ox)  | IL | Present | Must graduate in Dec 2019/June 2020 |
 | [BlackRock](https://www.wayup.com/i-Financial-Services-j-Software-Engineering-Summer-Analyst-2019-BlackRock-452850830832505/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Multiple | Present | Juniors only |
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | CA | Present | Must graduate by June 2020 |
 | [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | CA, TX (?) | Present  | |
-| [Bloomberg](https://careers.bloomberg.com/job/detail/68834?el=Internships)  | NY | Present | |
 | [Boeing](https://jobs.boeing.com/job/seattle/engineering-internships-paid-summer-2019-multiple-locations/185/9103812)  | Multiple | Present | |
-| [Braze](https://boards.greenhouse.io/embed/job_app?token=840086)  | NY | Present | |
-| [Box](https://boards.greenhouse.io/boxinc/jobs/1313615) | Redwood City, CA | Present | Graduate in 2020, with a major in Computer Science |
 | [Buzzfeed](https://boards.greenhouse.io/buzzfeed/jobs/1288982?gh_jid=1288982&gh_src=7fa4efd51) | NY, CA, MN | Present |  |
 | [Cadre](https://cadre.com/careers/apply?gh_jid=1298465&gh_src=f4dnhe1)  | NY | Sep. 30 deadline | Graduate in Dec. 2019 or May 2020 |
 | [Chegg](https://jobs.chegg.com/job/CHEGA00561314/Software-Engineer-Intern)  | CA | Present | |
-| [Chick-fil-a](https://www.themuse.com/jobs/chickfila/2019-springsummer-software-engineering-innovation-intern)  | GA | Present | Current juniors and seniors only |
 | [Cisco](https://jobs.cisco.com/jobs/SearchJobs/?projectSort=schemaField_3_19_3&projectSortDirection=ASC&&projectOffset=0)  | Multiple | Present | Many opportunities, from [SWE](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Bachelor-s-Intern-United-States/1231195?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program) to [Data Science](https://jobs.cisco.com/jobs/ProjectDetail/Data-Scientist-Intern-United-States/1232432?source=Cisco+Jobs+Career+Site&tags=CDC+SnNG+engineering-university-program)—check main link for all listings |
 | [Clever](https://clever.com/about/jobs/detail?gh_jid=6194&gh_src=qnrd28) | CA | Present | |
 | [Coinbase](https://www.coinbase.com/careers)  | CA | Present | Available positions: [Machine Learning](https://www.coinbase.com/careers/919954), [Consumer Back End](https://www.coinbase.com/careers/919512), [Android dev](https://www.coinbase.com/careers/919969) |
-| [Cockroach Labs](https://angel.co/cockroach-labs/jobs/405680-backend-engineering-intern-summer-2019?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | NY | Present | Backend engineering position |
-| [Constant Contact](https://boards.greenhouse.io/endurance/jobs/910708)  | MA | Present | Security research position |
 | [Convoy](https://jobs.lever.co/convoy/86c7bb6e-c592-43bf-87c8-a1eec90af2f3/apply?lever-source=Glassdoor)  | WA | Present | Must graduate in 2020 |
 | [Couple](https://couple.me/jobs)  | CA | Present | |
 | [Cox Automotive](https://www.recruit.net/job/software-engineer_north-hills_jobs/E637D0B356259D4E)  |  NY | Present | |
@@ -202,10 +194,18 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 |---|---|---|
 | AllianceBernstein | NY | |
 | Altera | CA | |
+| American Express | AZ, FL, NY | |
+| Asurion | CA | Present | |
 | Bank of America Freshman Summer Analyst | NC, AZ, NJ, FL, NY | Freshmen Only |
+| Bloomberg | NY | |
 | BookBub | MA | |
+| Box | Redwood City, CA | |
 | Bracebridge Capital | MA | |
+| Braze | NY | Present | |
 | Broadway Technology  | NY | |
+| Chick-fil-a | GA | Current juniors and seniors only |
+| Cockroach Labs | NY | Backend engineering position |
+| Constant Contact | MA | Security research position |
 | Dow Jones | NJ | |
 | Enigma | NY | Seniors + juniors |
 | Honey | CA | |
