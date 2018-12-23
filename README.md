@@ -1,4 +1,4 @@
-* Note: As the fall recruiting rush comes to an end, this document will not be updated as frequently. Many applications may be closed, though I am trying my best to move closed apps to the "archived" section. Helpful sites to find internships are LinkedIn[https://www.linkedin.com/], Indeed[https://www.indeed.com/], Glassdoor[https://www.glassdoor.com/], StackOverflow[https://stackoverflow.com/jobs], BuiltIn[https://builtin.com/] (has different sites for NYC, Chicago, Seattle, Boston, LA, Colorado, Austin), and AngelList[https://angel.co/] (startups).
+* Note: As the fall recruiting rush comes to an end, this document will not be updated as frequently. Many applications may be closed, though I am trying my best to move closed apps to the "archived" section. Helpful sites to find internships are [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Glassdoor](https://www.glassdoor.com/), [StackOverflow](https://stackoverflow.com/jobs), [BuiltIn](https://builtin.com/) (has different websites for NYC, Chicago, Seattle, Boston, LA, Colorado, Austin), and [AngelList](https://angel.co/) (startups).
 
 # Summer 2019 Tech Internships!
 
