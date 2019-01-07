@@ -117,6 +117,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [SAS Institute](https://careers-sas.icims.com/jobs/14937/technical-internship-summer-2019---software-development/job?hub=9)  | NC | Present | Also has special programs for veterans and minorities |
 | [Sensata](https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Bloomington-MN/Software-Engineer-2019-Summer-Intern_IRC73181)  | MN | Present |  |
 | [Servicenow](http://jobs.jobvite.com/careers/servicenow/jobs?c=Student%20-%20Internship)  | CA, WA | Present |  |
+|[Shopify](https://www.shopify.com/careers/interns) | Canada | Present | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
 | [Slack](https://slack.com/careers/951251/summer-software-engineering-intern-2019)  | CA | Present |  |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/4079311002?gh_jid=4079311002)  | FL, CA, TX, WA, D.C. | Present | |
 |[Spartez](https://spartez.com/jobs/back-end-developer-internship)  | Poland | Present | Backend |
@@ -163,7 +164,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 |---|---|---|---|
 | [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
 | [Outreachy](https://www.outreachy.org/)  | Remote | February | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
-|[Shopify](https://www.shopify.com/careers/interns) | Canada | Late December-January  | Groups include back-end and front-end web development, production engineering, data, UX research, design, sales, solutions engineering, business, finance, talent acquisition. |
 | [GirlScript Summer of Code](http://gssoc.tech/)  | Remote | January | 3-month long open source project with any organization of choice where actual coding begins in March |
 
 ## Unknown application release date
