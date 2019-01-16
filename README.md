@@ -75,6 +75,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Managed by Q](https://www.linkedin.com/jobs/view/software-engineer-internship-summer-2019-at-managed-by-q-827630644/)  | NY | Present | |
 | [MassMutual](https://www.massmutual.com/planning/videos/it-track)  | MA | Present | |
 | [Microsoft](https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering)  | Multiple | Present | |
+| [MLB](http://www.mlb.com/careers/boc/?gh_jid=1476322)  | NY | Present | |
 | [Explore Microsoft](https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program)  | WA | Present | For college freshmen and sophomores. Experience both product manager/software engineer roles. |
 | [MongoDB](https://www.mongodb.com/careers/jobs/1306593)  | NY | Present | |
 |[Mozilla](https://careers.mozilla.org/listings/?position_type=Intern) | CA, Toronto, Paris | Present | |
