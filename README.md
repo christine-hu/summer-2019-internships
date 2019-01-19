@@ -231,3 +231,4 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Valassis| NC | Keywords: Big Data, High Scalability Engineering, Web Applications |
 | Verizon | Multiple | |
 | Yext | NY | |
+| Zynga| CA, Toronto | PM position also available. |
