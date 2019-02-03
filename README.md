@@ -29,7 +29,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Blackboard](https://careers.blackboard.com/careers/position/software-engineer-intern-phoenix-az-usa-2) | AZ | Present | Must have completed 3 years of core requirements |
 | [BlackRock](https://www.wayup.com/i-Financial-Services-j-Software-Engineering-Summer-Analyst-2019-BlackRock-452850830832505/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Multiple | Present | Juniors only |
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | CA | Present | Must graduate by June 2020 |
-| [Blizzard](https://careers.blizzard.com/en-us/students/internships)  | CA, TX (?) | Present  | |
 | [Boeing](https://jobs.boeing.com/job/seattle/engineering-internships-paid-summer-2019-multiple-locations/185/9103812)  | Multiple | Present | |
 | [Buzzfeed](https://boards.greenhouse.io/buzzfeed/jobs/1288982?gh_jid=1288982&gh_src=7fa4efd51) | NY, CA, MN | Present |  |
 | [Cadre](https://cadre.com/careers/apply?gh_jid=1298465&gh_src=f4dnhe1)  | NY | Sep. 30 deadline | Graduate in Dec. 2019 or May 2020 |
@@ -181,6 +180,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | American Express | AZ, FL, NY | |
 | Asurion | CA | Present | |
 | Bank of America Freshman Summer Analyst | NC, AZ, NJ, FL, NY | Freshmen Only |
+| Blizzard | CA, TX (?) | |
 | Bloomberg | NY | |
 | BookBub | MA | |
 | Box | Redwood City, CA | |
