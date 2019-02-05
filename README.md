@@ -20,7 +20,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Allstate](https://jobsearch.allstate.com/ShowJob/Id/1826200/Arity%20%20%20Software%20Engineer%20Intern)  | IL| Present | Rising juniors and seniors |
 | [Amazon](https://www.amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states)  | WA,  TX, CA, MA, CO, MI, VA, NY, WI, MN, AZ, OR | Present | Juniors and above only |
 | [Amazon Future Engineers](https://www.amazon.jobs/en/business_categories/university-recruiting)  | WA | Present  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
-| [Appian](https://boards.greenhouse.io/appian/jobs/1284024)  | VA | Present | | |
 | [Arm](https://careers.peopleclick.com/careerscp/client_arm/external/jobDetails.do?functionName=getJobDetail&jobPostId=38844&localeCode=en-us) | TX | Present | |
 | [Asana](https://asana.com/jobs/university-recruiting)  | CA, NY | Present | | |
 | [Astranis](https://jobs.lever.co/astranis/?team=Internships)  | CA | Present | Fall 18, Spring 19, Summer 19. Software, but also Electrical, Aerospace, and Mechanical too! |
@@ -179,7 +178,8 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | AllianceBernstein | NY | |
 | Altera | CA | |
 | American Express | AZ, FL, NY | |
-| Asurion | CA | Present | |
+| Appian  | VA |  |
+| Asurion | CA |  |
 | Bank of America Freshman Summer Analyst | NC, AZ, NJ, FL, NY | Freshmen Only |
 | Blizzard | CA, TX (?) | |
 | Bloomberg | NY | |
