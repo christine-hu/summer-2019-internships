@@ -156,6 +156,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Yelp](https://www.yelp.com/careers/job-openings/3f4cb3c8-4152-48b6-a76a-8226c2907400?description=Software-Engineer-Intern-Summer_College-Engineering-Product_San-Francisco-CA) | CA | Present | |
 | [Zendesk](https://www.zendesk.com/jobs/internships/) | Multiple locations | Present | Mostly for January - June 2019 |
 | [Zest Finance](https://www.themuse.com/jobs/zestfinance/software-engineer-internship-summer-2019)  | CA | Present |  |
+| [Zomato](https://zomato.recruitee.com)  | Multiple | Present | 2+ years of experience |
 | [Zoox](https://jobs.lever.co/zoox/508e1c93-c04c-4f17-85be-676d9260fcfc)  | CA | Present | Must be within 1-2 years of graduation |
 | [Zynga](https://www.zynga.com/careers/positions/internco-op-software-engineer-current-students-summer-2019)  | CA, Toronto | Present | PM position also available. |
 
