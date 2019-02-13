@@ -22,7 +22,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Amazon Future Engineers](https://www.amazon.jobs/en/business_categories/university-recruiting)  | WA | Present  | For college freshmen and sophomores. 10 hours of cs-related community service required before application. |
 | [Arm](https://careers.peopleclick.com/careerscp/client_arm/external/jobDetails.do?functionName=getJobDetail&jobPostId=38844&localeCode=en-us) | TX | Present | |
 | [Asana](https://asana.com/jobs/university-recruiting)  | CA, NY | Present | | |
-| [Astranis](https://jobs.lever.co/astranis/?team=Internships)  | CA | Present | Fall 18, Spring 19, Summer 19. Software, but also Electrical, Aerospace, and Mechanical too! |
+| [Astranis](https://jobs.lever.co/astranis/?team=Internships)  | CA | Present | Fall 18, Spring 19, Summer 19. Software, but also Electrical, Aerospace, and Mechanical too! | US Citizenship or GreenCard required
 | [Atlassian](https://www.atlassian.com/company/careers/detail/d4c1f25c-114d-4c97-8209-590393040664) | CA | Present
 | [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0n04ox)  | IL | Present | Must graduate in Dec 2019/June 2020 |
 | [Blackboard](https://careers.blackboard.com/careers/position/software-engineer-intern-phoenix-az-usa-2) | AZ | Present | Must have completed 3 years of core requirements |
