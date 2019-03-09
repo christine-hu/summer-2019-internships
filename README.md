@@ -44,12 +44,12 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | CA | Present | |
 | [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | NY | Present | Must graduate in/after December 2019. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
 | [Ebay](https://jobs.ebayinc.com/job/bellevue/software-engineer-intern/403/9393469) | CA, WA, OR, MA, NY | Present | |
-| [Electronic Arts](https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1375=153038&opportunityid=153038&inp1541=)  | TX | Present | |
 | [Etsy](https://jobs.lever.co/etsy/20631f36-1825-4443-9f2a-51d5cfa5e4bb/apply?lever-source=themuse)  | NY | Present |  |
 | Facebook | CA, WA, CO | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
 | [Five Rings Capital](http://jobs.jobvite.com/fiverings/job/ouw77fwY)  | NY | Present | |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst.html)  | NY | Present | For technical roles choose engineering |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/)  | Remote | March 25 - April 9 | Organizations announced |
 | [Gusto](https://boards.greenhouse.io/gusto/jobs/483342)  | CA | Present | |
 | [HBO](https://careers.warnermediagroup.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&noback=0&partnerid=391&siteid=36&jobid=818472#jobDetails=818472_36) | WA | Present | |
 | [HCSS](hhttps://boards.greenhouse.io/hcss/jobs/1389685) | TX | Present | |
@@ -92,6 +92,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [OpenAI](https://jobs.lever.co/openai/f9f7f8f3-90cc-41f3-a5b7-8692ab5da025)  | CA | Present | Summer Internship |
 | [Optiver](https://www.optiver.com/eu/en/job-opportunities/na-429)  | IL | Present | |
 | [OSIsoft](https://osisoft.wd1.myworkdayjobs.com/en-US/osisoft_careers/job/San-Leandro-California-USA/Software-Developer-Intern---Summer-2019_R001322)  | CA, TN, PA, AZ | Present | |
+| [Outreachy](https://www.outreachy.org/)  | Remote | February | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
 | [Peloton](https://www.onepeloton.com/company/careers/857275)  | NY | Present | |
 | [Pixar](https://pixar.wd5.myworkdayjobs.com/Pixar_External_Career_Site)  | CA | Present | |
 | [Plaid](https://plaid.com/careers/#software-engineer-intern)  | CA | Present | |
@@ -120,7 +121,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Slack](https://slack.com/careers/951251/summer-software-engineering-intern-2019)  | CA | Present |  |
 | [SpaceX](https://boards.greenhouse.io/spacex/jobs/4079311002?gh_jid=4079311002)  | FL, CA, TX, WA, D.C. | Present | |
 |[Spartez](https://spartez.com/jobs/back-end-developer-internship)  | Poland | Present | Backend |
-|[Spotify](https://www.spotifyjobs.com/students/) | NY, MA | Present  | |
 |[Starbucks](https://starbucks.taleo.net/careersection/1000222/jobdetail.ftl?job=180008367&lang=en&src=JB-12106) | WA | Present  | Dec 2019/June 2020 graduation date |
 | [Starsky Robotics](https://jobs.lever.co/starskyrobotics/636cbd7f-0a33-4072-996d-de28dc6b96ba)  | CA | Present |  |
 | [State Farm](https://statefarm.csod.com/ats/careersite/search.aspx?site=1&c=statefarm)  | IL | Present | For tech-specific: [link1](https://statefarm.csod.com/ats/careersite/JobDetails.aspx?site=1&id=4465) [link2](https://statefarm.csod.com/ats/careersite/JobDetails.aspx?site=1&id=4508) |
@@ -158,20 +158,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Zoox](https://jobs.lever.co/zoox/508e1c93-c04c-4f17-85be-676d9260fcfc)  | CA | Present | Must be within 1-2 years of graduation |
 | [Zynga](https://www.zynga.com/careers/positions/internco-op-software-engineer-current-students-summer-2019)  | CA, Toronto | Present | PM position also available. |
 
-## Applications opening soon
-
-| Name | Location | Open Date/Period | Notes  |
-|---|---|---|---|
-| [Google Summer of Code](https://summerofcode.withgoogle.com/)  | Remote | March 2019 | Open source work with an organization of choice |
-| [Outreachy](https://www.outreachy.org/)  | Remote | February | Open source work with an organization of choice. For women (cis and trans), trans men, and genderqueer people, or people who are Black/African American, Hispanic/Latin@, Native American/American Indian, Alaska Native, Native Hawaiian, or Pacific Islander.  |
-| [GirlScript Summer of Code](http://gssoc.tech/)  | Remote | January | 3-month long open source project with any organization of choice where actual coding begins in March |
-
-## Unknown application release date
-
-| Name | Location | Application Period | Notes  |
-|---|---|---|---|
-| [Qualcomm Early Identification Program](https://www.qualcomm.com/company/careers/interns)  | CA | ? | For high-performing freshmen |
-
 ## Archived (applications closed)
 | Name | Location | Notes  |
 |---|---|---|
@@ -186,7 +172,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | BookBub | MA | |
 | Box | Redwood City, CA | |
 | Bracebridge Capital | MA | |
-| Braze | NY | Present | |
+| Braze | NY | |
 | Broadway Technology  | NY | |
 | Chick-fil-a | GA | Current juniors and seniors only |
 | Cockroach Labs | NY | Backend engineering position |
@@ -194,6 +180,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Dow Jones | NJ | |
 | Duolingo | PA | |
 | DRW | IL | |
+| Electronic Arts | TX | |
 | Enigma | NY | Seniors + juniors |
 | Facebook University| CA | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | Fidelity| NC, RI, NH, TX | Software Engineer, Systems Analyst, Data Analyst, and Systems Engineer available |
@@ -226,8 +213,9 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Plexus | CO | Juniors preferred |
 | Reddit | CA | |
 | Riot Games | CA | |
-| Robinhood | CA | Present |  |
+| Robinhood | CA | |
 | Shutterfly | CA | |
+| Spotify | NY, MA | |
 | Synopsys | OR | Combines CS with EE |
 | Textron | MD | |
 | Valassis| NC | Keywords: Big Data, High Scalability Engineering, Web Applications |
