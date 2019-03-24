@@ -160,7 +160,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Altera | CA | |
 | American Express | AZ, FL, NY | |
 | Appian  | VA |  |
-| Arm | TX | Present | |
+| Arm | TX | |
 | Asurion | CA |  |
 | Bank of America Freshman Summer Analyst | NC, AZ, NJ, FL, NY | Freshmen Only |
 | Blizzard | CA, TX (?) | |
