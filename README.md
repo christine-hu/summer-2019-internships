@@ -42,7 +42,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [DE Shaw](https://www.deshaw.com/careers#internships)  | NY | Present | Many positions available: quant research, swe, etc. |
 | [Disney](https://jobs.disneycareers.com/search-jobs?k=intern)  | Multiple | Present | |
 | [Disney Animation](https://www.disneyanimation.com/careers/open-positions)  | CA | Present | |
-| [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | NY | Present | Must graduate in/after December 2019. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
 | [Ebay](https://jobs.ebayinc.com/job/bellevue/software-engineer-intern/403/9393469) | CA, WA, OR, MA, NY | Present | |
 | [Etsy](https://jobs.lever.co/etsy/20631f36-1825-4443-9f2a-51d5cfa5e4bb/apply?lever-source=themuse)  | NY | Present |  |
 | Facebook | CA, WA, CO | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
@@ -179,6 +178,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Cockroach Labs | NY | Backend engineering position |
 | Constant Contact | MA | Security research position |
 | Dow Jones | NJ | |
+| [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | NY | Present | Must graduate in/after December 2019. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
 | Duolingo | PA | |
 | DRW | IL | |
 | Electronic Arts | TX | |
