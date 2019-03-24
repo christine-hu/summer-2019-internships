@@ -45,7 +45,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Etsy](https://jobs.lever.co/etsy/20631f36-1825-4443-9f2a-51d5cfa5e4bb/apply?lever-source=themuse)  | NY | Present |  |
 | Facebook | CA, WA, CO | Present | Available positions: [Network Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp4XXUAZ/), [Test Automation Engineer](https://www.facebook.com/careers/jobs/a0I1H00000Mp2bBUAR/)|
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
-| [Five Rings Capital](http://jobs.jobvite.com/fiverings/job/ouw77fwY)  | NY | Present | |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst.html)  | NY | Present | For technical roles choose engineering |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/)  | Remote | March 25 - April 9 | Organizations announced |
 | [HBO](https://careers.warnermediagroup.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&noback=0&partnerid=391&siteid=36&jobid=818472#jobDetails=818472_36) | WA | Present | |
@@ -182,6 +181,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Enigma | NY | Seniors + juniors |
 | Facebook University| CA | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | Fidelity| NC, RI, NH, TX | Software Engineer, Systems Analyst, Data Analyst, and Systems Engineer available |
+| Five Rings Capital  | NY | Present | |
 | Honey | CA | |
 | HubSpot| MA | |
 | Hudl | MA | |
