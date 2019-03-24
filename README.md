@@ -130,7 +130,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Thumbtack](https://boards.greenhouse.io/thumbtack/jobs/2570)  | CA | Present | Must graduate in 2020 |
 | [Tumblr](https://oath.wd5.myworkdayjobs.com/careers/job/US---New-York-Broadway-770/Tumblr-Engineering-Intern_JR0006522) | NY | Present | |
 | [Twilio](https://www.twilio.com/jobs)  | CA | Present | Multiple positions, including PM |
-| [Twitch](https://jobs.lever.co/twitch/564f4325-6bff-466e-8b4c-b20fde00ac2c) | CA | Present | Must have completed sophomore year |
 | [Twitter](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)  | CA | Present | |
 | [Twitter Academy](https://twitteracademy19.splashthat.com/) | CA | Present | For second-year students who are black, Hispanic/Latinx, or Native American.|
 | [Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=4252&source=Direct+Applicant&tags=internshipinfographic)  | NY | Present | [Quantitative Research](https://careers.twosigma.com/careers/Careers?jobId=4357&source=Direct+Applicant&tags=internshipinfographic) position also available.|
@@ -219,6 +218,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Spotify | NY, MA | |
 | Synopsys | OR | Combines CS with EE |
 | Textron | MD | |
+| Twitch | CA | Present | Must have completed sophomore year |
 | Valassis| NC | Keywords: Big Data, High Scalability Engineering, Web Applications |
 | Verizon | Multiple | |
 | Yext | NY | |
