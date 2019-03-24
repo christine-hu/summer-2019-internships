@@ -59,7 +59,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Jetbrains](https://www.jetbrains.com/company/jobs/)  | MA, Russia, Germany | Present | |
 | [JP Morgan](https://jpmchase.taleo.net/careersection/10140/jobdetail.ftl?job=180068843)  | NY, IL, OH, TX, NJ, DE, NY, TX, CA, FL, DE | Present | Must graduate by June 2020|
 | [Karat](https://jobs.lever.co/karat/c6666daf-6103-4430-85ac-4a45f5b0acfa)  | WA | Present | |
-| [Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/15827)  | CA | Present | |
 | [Knewton](https://www.builtinnyc.com/job/internship/software-engineering-internship-summer-2019/42518)  | NY | Present | |
 | [Leidos](https://careers.leidos.com/jobs/3241160-software-developer-intern?tm_job=TR-659040&tm_event=view&tm_company=2502&bid=326)  | NJ | Present | Juniors and Seniors preferred |
 | [Lime](https://jobs.lever.co/limebike/f83ba173-769d-4992-88dc-ff828c87131d)  | CA | Present | |
@@ -204,6 +203,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Johnson & Johnson | NJ, FL, PA, IN, CA, RI, GA | |
 | Jump Trading | IL | |
 | Kayak | MA | Data engineering position. SWE positions available in Germany and Lithuania|
+| Khan Academy | CA | |
 | LinkedIn  | Multiple | No freshmen |
 | Morgan Stanley | NY | |
 | Motorola| IL | No seniors |
