@@ -22,8 +22,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Asana](https://asana.com/jobs/university-recruiting)  | CA, NY | Present | | |
 | [Astranis](https://jobs.lever.co/astranis/?team=Internships)  | CA | Present | Fall 18, Spring 19, Summer 19. Software, but also Electrical, Aerospace, and Mechanical too! |
 | [Atlassian](https://www.atlassian.com/company/careers/detail/d4c1f25c-114d-4c97-8209-590393040664) | CA | Present
-| [Belvedere Trading](http://belvederetrading.applicantstack.com/x/detail/a2sa4x0n04ox)  | IL | Present | Must graduate in Dec 2019/June 2020 |
-| [Blackboard](https://careers.blackboard.com/careers/position/software-engineer-intern-phoenix-az-usa-2) | AZ | Present | Must have completed 3 years of core requirements |
 | [BlackRock](https://www.wayup.com/i-Financial-Services-j-Software-Engineering-Summer-Analyst-2019-BlackRock-452850830832505/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)  | Multiple | Present | Juniors only |
 | [Blend](https://blend.com/careers/opening/university/?oid=2a469512-a8c2-44fa-a260-ef3ae0c90db7)  | CA | Present | Must graduate by June 2020 |
 | [Boeing](https://jobs.boeing.com/job/seattle/engineering-internships-paid-summer-2019-multiple-locations/185/9103812)  | Multiple | Present | |
@@ -162,6 +160,8 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Arm | TX | |
 | Asurion | CA |  |
 | Bank of America Freshman Summer Analyst | NC, AZ, NJ, FL, NY | Freshmen Only |
+| Belvedere Trading | IL | Must graduate in Dec 2019/June 2020 |
+| Blackboard | AZ | Must have completed 3 years of core requirements |
 | Blizzard | CA, TX (?) | |
 | Bloomberg | NY | |
 | BookBub | MA | |
