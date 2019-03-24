@@ -98,7 +98,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Palantir](https://www.palantir.com/careers/)  | NY, CA, WA, D.C., Australia, London, Canada | Present | Must graduate in 2020|
 | [Palo Alto Networks](https://jobs.jobvite.com/paloaltonetworks/p/interns)  | CA, TX, VA, Netherlands, France | Present ||
 | [Pandora](http://jobs.jobvite.com/pandora/job/og0C8fwK)  | CA | Present | 2019/2020 grads only |
-| [PayPal](https://jobsearch.paypal-corp.com/en-US/job/-/J3T6VC67NC757TJ3Z30)  | NY | Present ||
 | [Peak6 Investments](https://www.builtinchicago.org/job/internship/technology-experience-women-2019-summer-internship/64218)  | IL | Present | Must be female and graduate in Dec. 2019 or June 2020|
 | [Pinterest](https://careers.pinterest.com/careers/details/software-engineer-intern_san-francisco_1279340)  | CA | Present | |
 | [Platform.sh](https://platform.sh/company/careers/job?gh_jid=4100218002)  | Paris | Present ||
@@ -211,6 +210,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Motorola| IL | No seniors |
 | Niantic | CA | |
 | Northrop Grumman  | MN | No seniors |
+| [PayPal]  | NY | Present ||
 | Plexus | CO | Juniors preferred |
 | Reddit | CA | |
 | Riot Games | CA | |
