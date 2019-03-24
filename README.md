@@ -177,7 +177,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Cockroach Labs | NY | Backend engineering position |
 | Constant Contact | MA | Security research position |
 | Dow Jones | NJ | |
-| [Dropbox] | NY | Present | Must graduate in/after December 2019. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
+| Dropbox | NY | Present | Must graduate in/after December 2019. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
 | Duolingo | PA | |
 | DRW | IL | |
 | Electronic Arts | TX | |
@@ -210,7 +210,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Motorola| IL | No seniors |
 | Niantic | CA | |
 | Northrop Grumman  | MN | No seniors |
-| [PayPal]  | NY | Present ||
+| PayPal  | NY | Present ||
 | Plexus | CO | Juniors preferred |
 | Reddit | CA | |
 | Riot Games | CA | |
