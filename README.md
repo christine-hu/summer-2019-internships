@@ -15,7 +15,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Name | Location | Application Period | Notes  |
 |---|---|---|---|
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
-| [Airbnb](https://www.airbnb.com/careers/departments/position/1213896)  | CA | Present | |
 | [Akuna Capital](https://akunacapital.com/careers)  | IL, MA | Present | Graduation date by Spring 2020; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
 | [Allstate](https://jobsearch.allstate.com/ShowJob/Id/1826200/Arity%20%20%20Software%20Engineer%20Intern)  | IL| Present | Rising juniors and seniors |
 | [Amazon](https://www.amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states)  | WA,  TX, CA, MA, CO, MI, VA, NY, WI, MN, AZ, OR | Present | Juniors and above only |
@@ -155,6 +154,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 ## Archived (applications closed)
 | Name | Location | Notes  |
 |---|---|---|
+| Airbnb | CA | |
 | AllianceBernstein | NY | |
 | Altera | CA | |
 | American Express | AZ, FL, NY | |
