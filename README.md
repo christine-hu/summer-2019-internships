@@ -174,20 +174,20 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Cockroach Labs | NY | Backend engineering position |
 | Constant Contact | MA | Security research position |
 | Dow Jones | NJ | |
-| Dropbox | NY | Present | Must graduate in/after December 2019. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
+| Dropbox | NY | |
 | Duolingo | PA | |
 | DRW | IL | |
 | Electronic Arts | TX | |
 | Enigma | NY | Seniors + juniors |
 | Facebook University| CA | For college freshmen and sophomores. Groups include engineering, operations, analytics, product design, and global marketing solutions.|
 | Fidelity| NC, RI, NH, TX | Software Engineer, Systems Analyst, Data Analyst, and Systems Engineer available |
-| Five Rings Capital  | NY | Present | |
+| Five Rings Capital  | NY | |
 | Honey | CA | |
 | HubSpot| MA | |
 | Hudl | MA | |
 | Hudson River Trading| NY | |
-| iCIMS | NJ | Present | |
-| Illumio | CA | Present | Must graduate in June 2020. Data Engineer role |
+| iCIMS | NJ | |
+| Illumio | CA | Must graduate in June 2020. Data Engineer role |
 | IMC Trading | IL | Present | |
 | Garmin | AZ, KS | Design Engineer, Software Engineer positions |
 | General Electric| FL, IL, MO, NV, PA, TX | |
@@ -196,7 +196,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Google Engineering Practicum | Multiple | For college freshmen and sophomores.|
 | Granular | IA | |
 | Groupon | IL, WA | |
-| Gusto  | CA | Present | |
+| Gusto  | CA | |
 | IBM | AZ, CA, CO, GA, MA, MN, NC, NY, OH, OR, PA, TX, VT | |
 | Indeed | Many | |
 | Intel | CA | |
@@ -209,7 +209,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Motorola| IL | No seniors |
 | Niantic | CA | |
 | Northrop Grumman  | MN | No seniors |
-| PayPal  | NY | Present ||
+| PayPal  | NY ||
 | Plexus | CO | Juniors preferred |
 | Reddit | CA | |
 | Riot Games | CA | |
@@ -218,7 +218,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Spotify | NY, MA | |
 | Synopsys | OR | Combines CS with EE |
 | Textron | MD | |
-| Twitch | CA | Present | Must have completed sophomore year |
+| Twitch | CA | Must have completed sophomore year |
 | Valassis| NC | Keywords: Big Data, High Scalability Engineering, Web Applications |
 | Verizon | Multiple | |
 | Yext | NY | |
