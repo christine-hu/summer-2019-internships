@@ -178,7 +178,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Cockroach Labs | NY | Backend engineering position |
 | Constant Contact | MA | Security research position |
 | Dow Jones | NJ | |
-| [Dropbox](https://www.dropbox.com/jobs/listing/1244792?gh_src=aonhf1)  | NY | Present | Must graduate in/after December 2019. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
+| [Dropbox] | NY | Present | Must graduate in/after December 2019. [Seattle application](https://www.builtinseattle.com/job/internship/software-engineer-intern-summer-2019/3596) |
 | Duolingo | PA | |
 | DRW | IL | |
 | Electronic Arts | TX | |
