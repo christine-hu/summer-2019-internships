@@ -48,7 +48,6 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Five Rings Capital](http://jobs.jobvite.com/fiverings/job/ouw77fwY)  | NY | Present | |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst.html)  | NY | Present | For technical roles choose engineering |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/)  | Remote | March 25 - April 9 | Organizations announced |
-| [Gusto](https://boards.greenhouse.io/gusto/jobs/483342)  | CA | Present | |
 | [HBO](https://careers.warnermediagroup.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&noback=0&partnerid=391&siteid=36&jobid=818472#jobDetails=818472_36) | WA | Present | |
 | [HCSS](hhttps://boards.greenhouse.io/hcss/jobs/1389685) | TX | Present | |
 | [HDE](https://www.hde.co.jp/en/gip/) | Tokyo | Present | |
@@ -198,6 +197,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Google Engineering Practicum | Multiple | For college freshmen and sophomores.|
 | Granular | IA | |
 | Groupon | IL, WA | |
+| Gusto  | CA | Present | |
 | IBM | AZ, CA, CO, GA, MA, MN, NC, NY, OH, OR, PA, TX, VT | |
 | Indeed | Many | |
 | Intel | CA | |
