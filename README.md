@@ -39,6 +39,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [Flatiron Health](https://flatiron.com/careers/open-positions/)  | NY | Present | Must graduate between December 2019 and June 2020. Specific positions: [Software Engineer](https://flatiron.com/careers/open-positions/1244297), [Data Insights Engineer](https://flatiron.com/careers/open-positions/1264121), [Security Engineer](https://flatiron.com/careers/open-positions/1264168) |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/emea/summer-analyst.html)  | NY | Present | For technical roles choose engineering |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/organizations/)  | Remote | March 25 - April 9 | Organizations announced |
+| [Groceristar](https://angel.co/company/groceristar/jobs)  | Remote | Present |  |
 | [HCSS](hhttps://boards.greenhouse.io/hcss/jobs/1389685) | TX | Present | |
 | [HDE](https://www.hde.co.jp/en/gip/) | Tokyo | Present | |
 | [Hulu](https://www.hulu.com/jobs/positions/oduj8fws) | CA, WA | Present | |
