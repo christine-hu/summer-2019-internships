@@ -69,7 +69,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | [NetApp](https://jobs.netapp.com/go/University-Recruiting-Jobs/3583600/?q=&title=intern-+Software)  | CA, CO, KS, MA, NC, PA  | Present | |
 | [Nextdoor](https://nextdoor.com/jobs/?gh_jid=1258419)  | CA | Present | Must graduate in 2020 |
 | [New York Times](https://nytimes.wd5.myworkdayjobs.com/en-US/Intern-Biz)  | NY | Dec. 21 deadline (1st round), Jan 11/18 for round #2) | Additional internship opportunities for The New York Times: Software Engineering Intern - Ad Tech (Jan 11, 2019); Data Analytics Intern (Jan 18, 2019); Data Product Intern (Jan 18, 2019) |
-| [Nike](https://jobs.nike.com/job/beaverton/digital-undergraduate-intern/824/9277021)  | OR | Present | Expected graduation date of Winter 2019 or Spring 2020. Variety of positions available from Software Engineer to IOS Developer to Full Stack Developer. Reach out to [Melana Hammel '18](mailto:mhammel@alumni.princeton.edu) with any questions. |
+| [Nike](https://jobs.nike.com/job/beaverton/digital-undergraduate-intern/824/9277021)  | OR | Present | Expected graduation date of Winter 2019 or Spring 2020. Variety of positions available from Software Engineer to IOS Developer to Full Stack Developer. |
 | [Noblis](https://jobs-noblis.icims.com/jobs/6218/2019-technical%2C-paid-summer-internships-%28returning%29/job)  | VA | Present | |
 | [Occipital](https://occipital.com/jobs)  | IL | Present | No official program, but open to internships for any full time engineering role |
 | [OpenAI](https://jobs.lever.co/openai/f9f7f8f3-90cc-41f3-a5b7-8692ab5da025)  | CA | Present | Summer Internship |
